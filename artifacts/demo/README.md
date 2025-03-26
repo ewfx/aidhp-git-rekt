@@ -1,9 +1,9 @@
 # Project Resources
 
 📌 **Video Overview**  
-Check out the project overview on YouTube: [HyperFin AI - Nova Bank](https://youtu.be/hu5GFgcohv0)  
+Check out the project overview on YouTube: [HyperFin AI - Nova Bank](https://www.youtube.com/watch?v=aeJu1DhHJ2s)  
 🔗 You can also access the video here via Google Drive:  
-[https://drive.google.com/drive/folders/1d5authWSblxrEDy7WY8ODWskJh2lctC3?usp=drive_link](https://drive.google.com/file/d/1AL3PfNC_8cHNQJKmExCraBkgxC8Q5Zin/view?usp=drive_link)
+[Drive-link](https://drive.google.com/file/d/1Z4QTzVq5j1FH1wUIgrsZPQpH2PyzVE2a/view?usp=drive_link)
 
 ---
 
