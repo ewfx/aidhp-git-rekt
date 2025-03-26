@@ -1,5 +1,13 @@
-Replace this file with files that you would like to use for your demo. This may include
+Project Resources
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+📌 Video Overview
+
+Check out the project overview on YouTube: HyperFin AI - Nova Bank
+
+📂 Additional Documents
+
+Presentation: Final_PPT.pptx
+
+Project Report: HyperFin_AI_Report_NovaBank_final.pdf
+
+These files are available in the project folder for reference.
