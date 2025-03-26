@@ -51,18 +51,25 @@ aidhp-git-rekt/
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/ewfx/aidhp-git-rekt.git
+cd aidhp-git-rekt
 ```
 ### 2. Backend Setup:
 ```bash
-cd aidhp-git-rekt/backend
-pip install -r Requirements.txt
+# Create and activate a virtual environment
+python -m venv env
+./env/Scripts/activate  # Windows
+# For macOS/Linux use: source env/bin/activate
 
-# Place your API key in main.py (line 39)
+# Install dependencies
+pip install -r requirements.txt
+
+cd code/backend
 uvicorn main:app --reload
 ```
 ### 3. Frontend Setup:
 ```bash
-cd ../frontend
+# Open a new terminal in the aidhp-git-rekt folder
+cd code/Frontend
 npm install
 npm start
 ```
@@ -70,7 +77,7 @@ npm start
 - Navigate to: `http://localhost:3000`
 
 ## ✅ Testing
-- Run all tests using:
+- Run all tests using (pls go respective testing folder):
 ```bash
 pytest tests/
 ```
@@ -82,7 +89,7 @@ pytest tests/
 | **Gemma 3 27B (LLM)** | Avg response: ~5s, 95th percentile: ~3.4s |
 | **XGBoost** | Inference: ~25ms, AUC-ROC: 0.93 |
 | **KNN** | Inference: ~18ms, Precision@5: 74% |
-| **FastAPI Server** | 120+ RPS, scalable to 1000 concurrent users |
+
 
 ## 🔒 Security & Compliance
 - **TLS-Encrypted API Traffic**
