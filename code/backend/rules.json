@@ -1,0 +1,302 @@
+{
+    "credit_cards": {
+        "Education": {
+            "name": "Nova Education Credit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Education Elite Credit Card",
+                "eligibility": {
+                    "age_range": "18-35",
+                    "credit_score_min": 700,
+                    "education":["MBA","PhD","Master's"],
+                    "interests": ["Education", "Tech", "Books"],
+                    "monthly_spending_min": 2000
+                },
+                "benefits": ["Higher credit limit", "0% APR for 12 months", "Education rewards"]
+            },
+            "low_tier": {
+                "name": "Nova Education Basic Credit Card",
+                "eligibility": {
+                    "age_range": "18-35",
+                    "credit_score_min": 600,
+                    "education":["Graduate", "Under-Graduate", "Diploma", "Associate Degree"],
+                    "income_min": 30000,
+                    "interests": ["Education"],
+                    "monthly_spending_min": 1000
+                },
+                "benefits": ["Moderate credit limit", "Basic cashback on education spends"]
+            }
+        },
+        "Travel": {
+            "name": "Nova Travel Credit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Travel Elite Credit Card",
+                "eligibility": {
+                    "age_range": "25-50",
+                    "credit_score_min": 750,
+                    "income_min": 80000,
+                    "interests": ["Travel", "Luxury", "Frequent Travelers", "Domestic Travelers"],
+                    "monthly_spending_min": 5000
+                },
+                "benefits": ["Airport lounge access", "5X travel rewards", "No foreign transaction fees"]
+            },
+            "low_tier": {
+                "name": "Nova Travel Basic Credit Card",
+                "eligibility": {
+                    "age_range": "25-50",
+                    "credit_score_min": 650,
+                    "income_min": 40000,
+                    "interests": ["Travel", "Domestic Travelers"],
+                    "monthly_spending_min": 2000
+                },
+                "benefits": ["Basic travel rewards", "Discounted airfare"]
+            }
+        },
+        "Luxury": {
+            "name": "Nova Luxury Credit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Prestige Luxury Credit Card",
+                "eligibility": {
+                    "credit_score_min": 750,
+                    "income_min": 100000,
+                    "monthly_spending_min": 8000,
+                    "interests": ["Luxury", "Fashion", "Fine Dining", "Concerts"]
+                },
+                "benefits": ["Luxury hotel discounts", "VIP event access", "Premium concierge service"]
+            }
+        },
+        "Dining": {
+            "name": "Nova Dining Credit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Gourmet Dining Credit Card",
+                "eligibility": {
+                    "credit_score_min": 720,
+                    "income_min": 60000,
+                    "monthly_spending_min": 4000,
+                    "interests": ["Fine Dining", "Restaurants", "Food Delivery", "Fast Food"]
+                },
+                "benefits": ["5% cashback on dining", "Exclusive restaurant discounts", "Free meal vouchers"]
+            },
+            "low_tier": {
+                "name": "Nova Foodie Dining Credit Card",
+                "eligibility": {
+                    "credit_score_min": 650,
+                    "income_min": 30000,
+                    "monthly_spending_min": 1500,
+                    "interests": ["Dining", "Restaurants", "Casual Dining"]
+                },
+                "benefits": ["3% cashback on dining", "Special offers on food delivery"]
+            }
+        },
+        "Business": {
+            "name": "Nova Business Credit Card",
+            "type":"Commercial",
+            "high_tier": {
+                "name": "Nova Corporate Platinum Credit Card",
+                "eligibility": {
+                    "business_type": ["Corporation"],
+                    "annual_revenue_min": 1000000,
+                    "employee_count_min": 1000,
+                    "interests": ["Corporate Expenses", "Travel", "SME Growth"]
+                },
+                "benefits": ["Higher spending limit", "Business travel rewards", "Dedicated business account manager"]
+            },
+            "low_tier": {
+                "name": "Nova Business Essentials Credit Card",
+                "eligibility": {
+                    "business_type": ["SME", "Startup"],
+                    "annual_revenue_min": 50000,
+                    "employee_count_min": 100,
+                    "interests": ["Office Supplies", "Marketing", "Online Payments", "Payroll"]
+                },
+                "benefits": ["Cashback on office purchases", "Lower interest rates", "Expense tracking tools"]
+            }
+        },
+        "Shopping": {
+            "name": "Nova Shopping Credit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Premium Shopping Credit Card",
+                "eligibility": {
+                    "credit_score_min": 700,
+                    "income_min": 50000,
+                    "monthly_spending_min": 3000,
+                    "interests": ["Retail", "Online Shopping", "Fashion", "Luxury"]
+                },
+                "benefits": ["Exclusive retail discounts", "5% cashback on e-commerce purchases"]
+            },
+            "low_tier": {
+                "name": "Nova Everyday Shopping Credit Card",
+                "eligibility": {
+                    "credit_score_min": 600,
+                    "income_min": 25000,
+                    "monthly_spending_min": 1000,
+                    "interests": ["Online Shopping"]
+                },
+                "benefits": ["3% cashback on shopping", "No annual fee"]
+            }
+        }
+    },
+    "debit_cards": {
+        "Savings": {
+            "name": "Nova Savings Debit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Premium Savings Debit Card",
+                "eligibility": {
+                    "income_min": 75000,
+                    "monthly_expenses_min": 5000,
+                    "interests": ["Premium Banking", "Wealth Management"]
+                },
+                "benefits": ["High withdrawal limit", "Exclusive banking discounts"]
+            },
+            "low_tier": {
+                "name": "Nova Basic Savings Debit Card",
+                "eligibility": {
+                    "income_min": 30000,
+                    "monthly_expenses_min": 2000,
+                    "interests": ["Savings"]
+                },
+                "benefits": ["Basic savings benefits", "Lower transaction fees"]
+            }
+        },
+        "Entertainment": {
+            "name": "Nova Entertainment Debit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Cinemax Entertainment Debit Card",
+                "eligibility": {
+                    "income_min": 50000,
+                    "monthly_expenses_min": 3500,
+                    "interests": ["Movies", "Concerts", "Streaming"]
+                },
+                "benefits": ["Free movie tickets", "Discounts on concerts & events", "Free streaming subscriptions"]
+            }
+        },
+        "Dining": {
+            "name": "Nova Dining Debit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Gourmet Dining Debit Card",
+                "eligibility": {
+                    "income_min": 60000,
+                    "monthly_expenses_min": 4000,
+                    "interests": ["Dining", "Fine Dining", "Restaurants"]
+                },
+                "benefits": ["5% cashback at restaurants", "Exclusive dining event access", "Special meal discounts"]
+            },
+            "low_tier": {
+                "name": "Nova Everyday Dining Debit Card",
+                "eligibility": {
+                    "income_min": 30000,
+                    "monthly_expenses_min": 2000,
+                    "interests": ["Casual Dining", "Fast Food", "Food Delivery"]
+                },
+                "benefits": ["3% cashback on food purchases", "Discounts at partner food outlets"]
+            }
+        },
+        "Business": {
+            "name": "Nova Business Debit Card",
+            "type":"Commercial",
+            "high_tier": {
+                "name": "Nova Corporate Expense Debit Card",
+                "eligibility": {
+                    "business_type": ["Corporation"],
+                    "annual_revenue_min": 1000000,
+                    "employee_count_min": 3000,
+                    "interests": ["Corporate Expenses", "Travel", "Supplies"]
+                },
+                "benefits": ["Higher transaction limits", "Real-time expense tracking", "Business concierge support"]
+            },
+            "low_tier": {
+                "name": "Nova Business Essentials Debit Card",
+                "eligibility": {
+                    "business_type": ["SME", "Startup"],
+                    "annual_revenue_min": 500000,
+                    "employee_count_min": 1000,
+                    "interests": ["Office Supplies", "Marketing", "Payroll"]
+                },
+                "benefits": ["No foreign transaction fees", "Discounts on business services", "Automated payroll integration"]
+            }
+        },
+        "Travel": {
+            "name": "Nova Travel Debit Card",
+            "type":"Retail",
+            "high_tier": {
+                "name": "Nova Global Travel Debit Card",
+                "eligibility": {
+                    "income_min": 80000,
+                    "monthly_expenses_min": 5000,
+                    "interests": ["Frequent Travelers", "Frequent Travelers"]
+                },
+                "benefits": ["Zero forex markup", "Airport lounge access", "Discounted hotel bookings"]
+            },
+            "low_tier": {
+                "name": "Nova Domestic Travel Debit Card",
+                "eligibility": {
+                    "income_min": 40000,
+                    "monthly_expenses_min": 2500,
+                    "interests": ["Domestic Travelers"]
+                },
+                "benefits": ["Discounted airfare", "Priority check-in at partner airlines"]
+            }
+        }
+    },
+    "services": {
+        "Personal_Banking": {
+            "name": "Nova Personal Banking Services",
+            "type":"Retail",
+            "personal_loan": {
+                "name": "Nova Personal Loan",
+                "eligibility": {
+                    "credit_score_min": 680,
+                    "income_min": 40000,
+                    "monthly_expenses_min": 3000,
+                    "interests" : ["Premium Banking", "Savings", "Travel", "Education"]
+                },
+                "benefits": ["Low-interest rates", "Flexible repayment options"]
+            }
+        },
+        "Corporate_Banking": {
+            "name": "Nova Corporate Banking Solutions",
+            "type":"Commercial",
+            "business_account": {
+                "name": "Nova Business Account",
+                "eligibility": {
+                    "business_type": ["SME", "Startup", "Corporation"],
+                    "annual_revenue_min": 500000,
+                    "interests" : ["Corporate Expenses", "Payroll", "Online Payments", "Business Travel"]
+                },
+                "benefits": ["Multi-user access", "Custom credit solutions", "Lower transaction fees"]
+            }
+        },
+        "Investment_Advisory": {
+            "name": "Nova Investment & Wealth Management",
+            "type":"Retail",
+            "mutual_funds": {
+                "name": "Nova Mutual Fund Advisory",
+                "eligibility": {
+                    "income_min": 50000,
+                    "interests" : ["Wealth Management", "Investment", "Savings"]
+                },
+                "benefits": ["High returns", "Tax benefits", "Diverse investment portfolio"]
+            }
+        },
+        "Insurance": {
+            "name": "Nova Insurance & Risk Management",
+            "type": "Commercial",
+            "business_insurance": {
+                "name": "Nova Business Protection Plan",
+                "eligibility": {
+                    "business_type": ["SME", "Corporation"],
+                    "annual_revenue_min": 500000,
+                    "interests" : ["Insurance", "Pension Management", "Tax Advisory", "SME Growth"]
+                },
+                "benefits": ["Comprehensive liability coverage", "Employee insurance benefits", "Asset protection"]
+            }
+        }
+    }
+}

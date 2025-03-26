@@ -1,0 +1,202 @@
+{
+    "CUST000001": {
+        "name": "Emma",
+        "age": 59,
+        "category": "Retail",
+        "timestamp": "2025-03-17 06:22:36",
+        "comment": "Any advice on planning for retirement savings early?",
+        "platform": "Twitter"
+    },
+    "CUST000002": {
+        "name": "Zach",
+        "age": 65,
+        "category": "Retail",
+        "timestamp": "2025-03-21 06:22:36",
+        "comment": "How can I maximize my cashback rewards on my credit card?",
+        "platform": "Twitter"
+    },
+    "CUST000003": {
+        "name": "Henry",
+        "age": 24,
+        "category": "Retail",
+        "timestamp": "2025-03-16 06:22:36",
+        "comment": "Looking for tips on managing personal finances better.",
+        "platform": "Facebook"
+    },
+    "CUST000004": {
+        "name": "Bob",
+        "age": 32,
+        "category": "Retail",
+        "timestamp": "2025-02-08 06:22:36",
+        "comment": "Is it better to pay off debt first or invest extra savings?",
+        "platform": "Facebook"
+    },
+    "CUST000005": {
+        "name": "Wendy",
+        "age": 56,
+        "category": "Retail",
+        "timestamp": "2025-02-02 06:22:36",
+        "comment": "How can I maximize my cashback rewards on my credit card?",
+        "platform": "Instagram"
+    },
+    "CUST000006": {
+        "name": "Paul",
+        "age": 65,
+        "category": "Retail",
+        "timestamp": "2025-02-28 06:22:36",
+        "comment": "Looking for tips on managing personal finances better.",
+        "platform": "Twitter"
+    },
+    "CUST000007": {
+        "name": "Quinn",
+        "age": 32,
+        "category": "Retail",
+        "timestamp": "2025-01-31 06:22:36",
+        "comment": "Is it better to pay off debt first or invest extra savings?",
+        "platform": "Reddit"
+    },
+    "CUST000008": {
+        "name": "Frank",
+        "age": 27,
+        "category": "Retail",
+        "timestamp": "2025-03-15 06:22:36",
+        "comment": "Looking for tips on managing personal finances better.",
+        "platform": "Reddit"
+    },
+    "CUST000009": {
+        "name": "David",
+        "age": 37,
+        "category": "Retail",
+        "timestamp": "2025-03-03 06:22:36",
+        "comment": "What are the benefits of using NovaBank's budgeting tools?",
+        "platform": "Instagram"
+    },
+    "CUST000010": {
+        "name": "Olivia",
+        "age": 49,
+        "category": "Retail",
+        "timestamp": "2025-02-10 06:22:36",
+        "comment": "What are the best strategies for saving money effectively?",
+        "platform": "Instagram"
+    },
+    "CUST000011": {
+        "name": "Mia",
+        "age": 20,
+        "category": "Retail",
+        "timestamp": "2025-03-18 06:22:36",
+        "comment": "Looking for investment options with low risk. Any recommendations?",
+        "platform": "Twitter"
+    },
+    "CUST000012": {
+        "name": "Grace",
+        "age": 23,
+        "category": "Retail",
+        "timestamp": "2025-03-03 06:22:36",
+        "comment": "What are the best strategies for saving money effectively?",
+        "platform": "Facebook"
+    },
+    "CUST000013": {
+        "name": "Victor",
+        "age": 23,
+        "category": "Retail",
+        "timestamp": "2025-02-07 06:22:36",
+        "comment": "What are the benefits of using NovaBank's budgeting tools?",
+        "platform": "Instagram"
+    },
+    "CUST000014": {
+        "name": "Isabel",
+        "age": 27,
+        "category": "Retail",
+        "timestamp": "2025-03-23 06:22:36",
+        "comment": "Can someone explain how credit scores work and how to improve them?",
+        "platform": "Facebook"
+    },
+    "CUST000015": {
+        "name": "Jack",
+        "age": 60,
+        "category": "Retail",
+        "timestamp": "2025-02-16 06:22:36",
+        "comment": "Is it better to pay off debt first or invest extra savings?",
+        "platform": "Twitter"
+    },
+    "CUST000016": {
+        "name": "Ryan",
+        "age": 51,
+        "category": "Retail",
+        "timestamp": "2025-03-04 06:22:36",
+        "comment": "Can someone explain how credit scores work and how to improve them?",
+        "platform": "Twitter"
+    },
+    "CUST000017": {
+        "name": "Liam",
+        "age": 33,
+        "category": "Retail",
+        "timestamp": "2025-01-26 06:22:36",
+        "comment": "Is it better to pay off debt first or invest extra savings?",
+        "platform": "Instagram"
+    },
+    "CUST000018": {
+        "name": "Yvonne",
+        "age": 52,
+        "category": "Retail",
+        "timestamp": "2025-02-13 06:22:36",
+        "comment": "I need guidance on choosing between a fixed and variable mortgage rate.",
+        "platform": "Instagram"
+    },
+    "CUST000019": {
+        "name": "Sophia",
+        "age": 37,
+        "category": "Retail",
+        "timestamp": "2025-03-16 06:22:36",
+        "comment": "Is it better to pay off debt first or invest extra savings?",
+        "platform": "Reddit"
+    },
+    "CUST000020": {
+        "name": "Noah",
+        "age": 42,
+        "category": "Retail",
+        "timestamp": "2025-03-08 06:22:36",
+        "comment": "What are the best strategies for saving money effectively?",
+        "platform": "Twitter"
+    },
+    "CUST000021": {
+        "name": "Alice",
+        "age": 38,
+        "category": "Retail",
+        "timestamp": "2025-02-22 06:22:36",
+        "comment": "How can I maximize my cashback rewards on my credit card?",
+        "platform": "Twitter"
+    },
+    "CUST000022": {
+        "name": "Thomas",
+        "age": 23,
+        "category": "Retail",
+        "timestamp": "2025-02-12 06:22:36",
+        "comment": "Looking for tips on managing personal finances better.",
+        "platform": "Instagram"
+    },
+    "CUST000023": {
+        "name": "Charlie",
+        "age": 45,
+        "category": "Retail",
+        "timestamp": "2025-03-23 06:22:36",
+        "comment": "Looking for investment options with low risk. Any recommendations?",
+        "platform": "Reddit"
+    },
+    "CUST000024": {
+        "name": "Katherine",
+        "age": 57,
+        "category": "Retail",
+        "timestamp": "2025-03-05 06:22:36",
+        "comment": "How can I maximize my cashback rewards on my credit card?",
+        "platform": "Twitter"
+    },
+    "CUST000025": {
+        "name": "Uma",
+        "age": 34,
+        "category": "Retail",
+        "timestamp": "2025-03-18 06:22:36",
+        "comment": "Can someone explain how credit scores work and how to improve them?",
+        "platform": "Reddit"
+    }
+}

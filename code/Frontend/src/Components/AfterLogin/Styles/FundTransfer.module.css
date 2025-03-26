@@ -1,0 +1,198 @@
+/* General Styles */
+
+
+
+.loginbox {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Form Styles */
+.formContainer {
+  margin-top: 50px;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  margin-left: auto; /* Move the form to the right */
+  margin-right: 100px; /* Add some right margin for spacing */
+  width: 80%; /* Adjust the width as needed */
+}
+
+
+.heading {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+}
+
+label {
+  font-weight: bold;
+}
+
+.inputLg {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.btnPrimary {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.btnPrimary:hover {
+  background-color: #0056b3;
+}
+
+/* Responsive Styles */
+@media (max-width: 768px) {
+  .formContainer {
+    width: 80%;
+  }
+}
+
+@media (max-width: 480px) {
+  .formContainer {
+    width: 90%;
+  }
+}
+
+
+/* Modal Backdrop */
+.modalBackdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6); /* Darker for better visibility */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1050;
+  backdrop-filter: blur(5px); /* Adds a blur effect for depth */
+}
+
+/* Modal Container */
+.modalContent {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 12px;
+  width: 800px; /* Adjusted width for better proportion */
+  max-width: 90%;
+  max-height: 90vh; /* Prevents overflow */
+  text-align: center;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+  position: relative;
+  animation: fadeIn 0.3s ease-in-out;
+  overflow-y: auto; /* Enables scrolling if content is too large */
+}
+
+/* Close Button */
+.closeButton {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 16px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: 0.3s ease;
+}
+
+.closeButton:hover {
+  background: #cc0000;
+}
+
+/* Modal Title */
+.modalTitle {
+  font-size: 22px;
+  font-weight: bold;
+  color: #d9534f;
+  margin-bottom: 15px;
+}
+
+/* Modal Content Styling */
+.modalContent p {
+  font-size: 16px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.modalContent ul {
+  list-style: none;
+  padding: 0;
+}
+
+.modalContent ul li {
+  background: #f8f9fa;
+  margin: 8px 0;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 15px;
+  color: #555;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive Styles */
+@media (max-width: 480px) {
+  .modalContent {
+    width: 90%;
+    padding: 20px;
+    max-height: 85vh; /* Adjusted for smaller screens */
+  }
+
+  .closeButton {
+    width: 25px;
+    height: 25px;
+    font-size: 14px;
+  }
+}
+
+.spinner {
+  border: 3px solid rgba(255, 255, 255, 0.3);
+  border-radius: 50%;
+  border-top: 3px solid #fff;
+  width: 15px;
+  height: 15px;
+  animation: spin 1s linear infinite;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+

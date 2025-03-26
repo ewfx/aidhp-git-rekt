@@ -1,0 +1,113 @@
+.registerContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f2f2f2;
+  }
+
+.popup {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgb(205, 231, 240);
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    text-align: center;
+  }
+  
+.popup p {
+    margin-bottom: 10px;
+  }
+  
+.popup button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  
+
+
+.formContainer {
+    margin: 0 auto;
+    /* max-width: 1000px !important; */
+    width: 50%;
+    padding: 0 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+  }
+
+.heading {
+    font-size: 24px;
+    margin: 20px 0;
+    color: #008080; /* Change the heading color */
+  }
+
+.formGroup {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    text-align: left;
+  }
+  
+.formGroup label {
+    font-size: 16px;
+    color: #008080; /* Change the label text color */
+    margin-bottom: 8px;
+  }
+
+.inputLg {
+    font-size: 16px;
+    height: 50px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    color: #333;
+    border: 1px solid #ccc;
+  }
+
+/* Submit button */
+.btnPrimary {
+    background-color: #008080;
+    border: none;
+    border-radius: 5%;
+    color: #fff;
+    font-size: 18px;
+    padding: 5px 0;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+.btnPrimary:hover {
+    background-color: #006666;
+  }
+  
+.error {
+    color: #ff0000; /* Red color for error messages */
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  
+  /* Style the submit button */
+.btnPrimary {
+    background: #00cccc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+.btnPrimary:hover {
+    background: #009999;
+  }

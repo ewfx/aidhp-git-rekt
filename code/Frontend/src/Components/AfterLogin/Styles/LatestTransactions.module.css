@@ -1,0 +1,142 @@
+section {
+    width: 60%;
+    height: 100vh;
+    padding: 20px;
+   
+}
+
+h1 {
+
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.125;
+
+}
+
+.inputLg {
+    font-size: 16px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    color: #333;
+    border: 1px solid #ccc;
+  }
+.btnPrimary {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    white-space: nowrap;
+    display: inline-block;
+  }
+  
+  .btnPrimary:hover {
+    background-color: #0056b3;
+  }
+.dateFilteraa{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+#search-bar{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    
+}
+
+summary {
+    height: auto;
+    /* Remove fixed height */
+    background-color: #fff;
+    position: relative;
+    cursor: pointer;
+
+    list-style: none;
+
+    &:hover {
+        background-color: #f2f5f9;
+    }
+
+    div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        /* Vertically align items */
+    }
+
+    span {
+        width: 30%;
+        font-size: 1rem;
+        /* Adjust the font size as needed */
+    }
+
+    small {
+        color: #999;
+        font-size: .875em;
+    }
+
+    strong {
+        width: 30%;
+        font-weight: 700;
+        color: #999;
+    }
+
+    &:focus {
+        outline: none;
+    }
+
+    .plus {
+        color: #289672;
+    }
+}
+
+details {
+    border-bottom: 1px solid #b5bfd9;
+
+    padding: 0.5em 1em;
+}
+
+/* Remove box-shadow for open details to further reduce height */
+details[open] {
+    box-shadow: none;
+}
+
+/* Add space between details elements */
+details+details {
+    margin-top: 0.5em;
+}
+
+dl {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    /* Display children in a row layout */
+}
+
+dt {
+    color: #202999;
+    font-weight: 700;
+    width: 30%;
+    /* Adjust the width to your desired value */
+}
+
+dd {
+    width: 70%;
+    /* Adjust the width to your desired value */
+    margin-left: 0;
+    /* Add a left margin for separation */
+    margin-right: 5em;
+}
+
+

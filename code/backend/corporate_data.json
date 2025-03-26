@@ -1,0 +1,4062 @@
+{
+    "CG_US_000001": {
+        "Company Name": "Renewable Energy and Sustainability Houston",
+        "Password": "RenewableEnergyandSustainabilityHouston#123",
+        "Industry": "Renewable Energy and Sustainability",
+        "Location": "Houston",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "1000-2500",
+        "Credit Rating": "D",
+        "Annual Growth Rate": "21.21%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 33799.37,
+                "Purchase_Date": "10/9/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 116,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 45409.87,
+                "Purchase_Date": "10/9/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 350,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 39643.27,
+                "Purchase_Date": "10/9/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 402,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 4661037.45,
+                "Purchase_Date": "8/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 384,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2083005.43,
+                "Purchase_Date": "8/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 232,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2625085.61,
+                "Purchase_Date": "8/21/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 633,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1305581.02,
+                "Purchase_Date": "8/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 990,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2214.55,
+                "Purchase_Date": "11/2/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 448,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 677.88,
+                "Purchase_Date": "11/2/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 633,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2209.32,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 227,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1483.74,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 751,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 584.05,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 875,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000002": {
+        "Company Name": "AI and Machine Learning Phoenix",
+        "Password": "AIandMachineLearningPhoenix#123",
+        "Industry": "AI and Machine Learning",
+        "Location": "Phoenix",
+        "Revenue (in dollars)": "50M-80M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "AA",
+        "Annual Growth Rate": "21.86%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 46215.72,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 448,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 458521.44,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 294,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 351222.66,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 552,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 370321.99,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 676,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1072.66,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 492,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4855.58,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 996,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4005.9,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 748,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2005.25,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 307,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 295645.8,
+                "Purchase_Date": "4/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 277,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 970081.12,
+                "Purchase_Date": "4/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 134,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 638613.68,
+                "Purchase_Date": "4/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 195,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4311.44,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 990,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4417.61,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 386,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3754.79,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 957,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1905.11,
+                "Purchase_Date": "6/16/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 317,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2603.33,
+                "Purchase_Date": "6/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 778,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2012.4,
+                "Purchase_Date": "9/15/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 406,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4988.09,
+                "Purchase_Date": "9/15/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 615,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000003": {
+        "Company Name": "Cybersecurity Miami",
+        "Password": "CybersecurityMiami#123",
+        "Industry": "Cybersecurity",
+        "Location": "Miami",
+        "Revenue (in dollars)": "150M-200M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "AA",
+        "Annual Growth Rate": "14.15%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 18530.07,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 976,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 25771.02,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 212,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 12686.38,
+                "Purchase_Date": "12/4/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 617,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 17525.31,
+                "Purchase_Date": "12/4/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 298,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 31697.5,
+                "Purchase_Date": "12/4/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 349,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 431577.31,
+                "Purchase_Date": "5/1/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 427,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1847755.25,
+                "Purchase_Date": "5/1/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Sequoia Capital",
+                "Transaction_id": 688,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 67626.44,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 184,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 123114.38,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 494,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 96818.69,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 203,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 51640.59,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 596,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000004": {
+        "Company Name": "Telecommunications Miami",
+        "Password": "TelecommunicationsMiami#123",
+        "Industry": "Telecommunications",
+        "Location": "Miami",
+        "Revenue (in dollars)": "150M-200M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "AAA",
+        "Annual Growth Rate": "3.44%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 8974.03,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 489,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4049.43,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 863,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 8199.85,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 246,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4443.99,
+                "Purchase_Date": "10/4/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 997,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2211.88,
+                "Purchase_Date": "10/4/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 718,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 22120.34,
+                "Purchase_Date": "12/9/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 443,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 89070.85,
+                "Purchase_Date": "12/9/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 995,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 61637.69,
+                "Purchase_Date": "12/9/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 485,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 75405.98,
+                "Purchase_Date": "12/9/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 725,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 262933.87,
+                "Purchase_Date": "1/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 638,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 870672.58,
+                "Purchase_Date": "1/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 690,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2557.77,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 825,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3235.22,
+                "Purchase_Date": "11/10/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 688,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000005": {
+        "Company Name": "Fashion And Clothing Los Angeles",
+        "Password": "FashionAndClothingLosAngeles#123",
+        "Industry": "Fashion And Clothing",
+        "Location": "Los Angeles",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "AA",
+        "Annual Growth Rate": "24.92%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 777474.53,
+                "Purchase_Date": "8/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 632,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 3918551.34,
+                "Purchase_Date": "8/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 562,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 185303.55,
+                "Purchase_Date": "8/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 120,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 22656.76,
+                "Purchase_Date": "1/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 609,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 26600.88,
+                "Purchase_Date": "1/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 412,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 29646.26,
+                "Purchase_Date": "1/16/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 102,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3685.5,
+                "Purchase_Date": "9/22/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 610,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1353.06,
+                "Purchase_Date": "9/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 896,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2889.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 352,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000006": {
+        "Company Name": "AI and Machine Learning San Diego",
+        "Password": "AIandMachineLearningSanDiego#123",
+        "Industry": "AI and Machine Learning",
+        "Location": "San Diego",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "B",
+        "Annual Growth Rate": "11.09%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 25404.88,
+                "Purchase_Date": "7/6/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 444,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 35438.24,
+                "Purchase_Date": "7/6/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 102,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 29158.78,
+                "Purchase_Date": "7/6/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 773,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 4823.21,
+                "Purchase_Date": "7/6/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 832,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 49350.68,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 235,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 23878.66,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 159,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 19691.33,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 478,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 10221.67,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 608,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2490.43,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 983,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1275.07,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 625,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 385.13,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 512,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4418.59,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 183,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 661457.01,
+                "Purchase_Date": "7/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 809,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 941210.41,
+                "Purchase_Date": "7/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 541,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 96931.22,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 543,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 74890.8,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 422,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 144192.12,
+                "Purchase_Date": "2/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 903,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000007": {
+        "Company Name": "AI and Machine Learning Los Angeles",
+        "Password": "AIandMachineLearningLosAngeles#123",
+        "Industry": "AI and Machine Learning",
+        "Location": "Los Angeles",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "BBB",
+        "Annual Growth Rate": "6.87%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4034.22,
+                "Purchase_Date": "5/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 939,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 3326.39,
+                "Purchase_Date": "5/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 335,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 487584.1,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 222,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 364432.11,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 651,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2295.75,
+                "Purchase_Date": "8/5/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 509,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4493.12,
+                "Purchase_Date": "8/5/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 829,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3044.02,
+                "Purchase_Date": "8/5/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 772,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 949126.03,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 362,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 230051.49,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 537,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 580294.2,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 913,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 181727.7,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 965,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 21858.64,
+                "Purchase_Date": "6/5/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 806,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 27995.26,
+                "Purchase_Date": "6/5/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 490,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 48746.65,
+                "Purchase_Date": "6/5/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 434,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 13035.48,
+                "Purchase_Date": "6/5/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 217,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 27424.61,
+                "Purchase_Date": "11/2/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 493,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 28149.45,
+                "Purchase_Date": "11/2/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 777,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 32899.35,
+                "Purchase_Date": "11/2/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 495,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 36274.92,
+                "Purchase_Date": "3/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 360,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 27801.01,
+                "Purchase_Date": "3/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 377,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 15009.96,
+                "Purchase_Date": "3/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 625,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 47708.27,
+                "Purchase_Date": "3/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 480,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000008": {
+        "Company Name": "Media and Entertainment Detroit",
+        "Password": "MediaandEntertainmentDetroit#123",
+        "Industry": "Media and Entertainment",
+        "Location": "Detroit",
+        "Revenue (in dollars)": "150M-200M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "A",
+        "Annual Growth Rate": "21.36%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 35608.93,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 352,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 5713.77,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 574,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 18580.4,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 641,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 28131.95,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 797,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 47370.87,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 371,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 20452.38,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 120,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 23807.63,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 466,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 847.5,
+                "Purchase_Date": "2/23/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 932,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1540.91,
+                "Purchase_Date": "2/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 382,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 18116.61,
+                "Purchase_Date": "11/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 154,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 71722.4,
+                "Purchase_Date": "11/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 444,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 106073.2,
+                "Purchase_Date": "11/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 308,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 54336.76,
+                "Purchase_Date": "11/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 444,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3039.55,
+                "Purchase_Date": "9/5/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 694,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2586.83,
+                "Purchase_Date": "9/5/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 297,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3948.86,
+                "Purchase_Date": "9/5/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 958,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3425.7,
+                "Purchase_Date": "9/5/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 788,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000009": {
+        "Company Name": "Cybersecurity Houston",
+        "Password": "CybersecurityHouston#123",
+        "Industry": "Cybersecurity",
+        "Location": "Houston",
+        "Revenue (in dollars)": "50M-80M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "D",
+        "Annual Growth Rate": "7.85%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 6155.82,
+                "Purchase_Date": "6/9/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 460,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 23410.49,
+                "Purchase_Date": "6/9/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 326,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 4647.62,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 770,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 5219.13,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 612,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 5160.86,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 657,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 3771392.05,
+                "Purchase_Date": "8/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Sequoia Capital",
+                "Transaction_id": 709,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 4450637.11,
+                "Purchase_Date": "8/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 640,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 464602.37,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 893,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 30201.36,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 622,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 316477.52,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 792,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 57659.34,
+                "Purchase_Date": "4/19/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 342,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 23685.75,
+                "Purchase_Date": "4/19/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 355,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 68607.68,
+                "Purchase_Date": "4/19/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 522,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 10582.11,
+                "Purchase_Date": "4/19/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "MetLife",
+                "Transaction_id": 503,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 8241.58,
+                "Purchase_Date": "9/23/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 547,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 195027.41,
+                "Purchase_Date": "9/23/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 313,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 103016.03,
+                "Purchase_Date": "9/23/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 974,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000010": {
+        "Company Name": "Automotive Manufacturing Portland",
+        "Password": "AutomotiveManufacturingPortland#123",
+        "Industry": "Automotive Manufacturing",
+        "Location": "Portland",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "1000-2500",
+        "Credit Rating": "BBB",
+        "Annual Growth Rate": "2.57%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 44970.21,
+                "Purchase_Date": "2/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "MetLife",
+                "Transaction_id": 713,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 99038.32,
+                "Purchase_Date": "2/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 903,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 46900.01,
+                "Purchase_Date": "2/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "MetLife",
+                "Transaction_id": 199,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 86810.6,
+                "Purchase_Date": "2/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 724,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 3494.41,
+                "Purchase_Date": "6/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 160,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 15753.99,
+                "Purchase_Date": "6/18/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 103,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 486297.91,
+                "Purchase_Date": "11/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 752,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 438733.85,
+                "Purchase_Date": "11/12/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 491,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3489.86,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 255,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3361.87,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 591,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2701.95,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 946,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1341.01,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 107,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 41143.4,
+                "Purchase_Date": "9/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 525,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 34204.03,
+                "Purchase_Date": "9/7/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 314,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 29468.97,
+                "Purchase_Date": "8/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 908,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 31063.55,
+                "Purchase_Date": "8/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 881,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000011": {
+        "Company Name": "Textile and Sustainable Fabrics San Diego",
+        "Password": "TextileandSustainableFabricsSanDiego#123",
+        "Industry": "Textile and Sustainable Fabrics",
+        "Location": "San Diego",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "100-200",
+        "Credit Rating": "D",
+        "Annual Growth Rate": "16.91%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 24465.57,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 149,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 33294.0,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 389,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 22254.82,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 928,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 8848.73,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 465,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 65359.92,
+                "Purchase_Date": "8/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 209,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 90944.06,
+                "Purchase_Date": "8/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 452,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 148016.73,
+                "Purchase_Date": "8/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 245,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 144775.91,
+                "Purchase_Date": "5/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 411,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 170179.09,
+                "Purchase_Date": "5/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 330,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1560.57,
+                "Purchase_Date": "3/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 491,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4988.13,
+                "Purchase_Date": "3/20/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 664,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000012": {
+        "Company Name": "Fashion And Clothing Detroit",
+        "Password": "FashionAndClothingDetroit#123",
+        "Industry": "Fashion And Clothing",
+        "Location": "Detroit",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "D",
+        "Annual Growth Rate": "6.62%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 68351.62,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 116,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 69995.47,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 407,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 78729.58,
+                "Purchase_Date": "1/4/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 390,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 883116.46,
+                "Purchase_Date": "1/4/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 787,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 286001.77,
+                "Purchase_Date": "1/4/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 250,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 561419.05,
+                "Purchase_Date": "1/4/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 843,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 11246.35,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 154,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 46668.38,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 103,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 3399.41,
+                "Purchase_Date": "6/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 649,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 6491.05,
+                "Purchase_Date": "6/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 913,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 10078.96,
+                "Purchase_Date": "3/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 325,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 16217.05,
+                "Purchase_Date": "3/20/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 188,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000013": {
+        "Company Name": "Financial Services and Wealth Management Seattle",
+        "Password": "FinancialServicesandWealthManagementSeattle#123",
+        "Industry": "Financial Services and Wealth Management",
+        "Location": "Seattle",
+        "Revenue (in dollars)": "200M-300M",
+        "No of Employees": "1000-2500",
+        "Credit Rating": "AA",
+        "Annual Growth Rate": "2.57%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 6728.89,
+                "Purchase_Date": "9/14/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 508,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 49254.97,
+                "Purchase_Date": "9/14/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 911,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 40632.37,
+                "Purchase_Date": "11/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 997,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 23932.33,
+                "Purchase_Date": "11/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 161,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 111896.26,
+                "Purchase_Date": "11/18/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 754,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 8717.39,
+                "Purchase_Date": "10/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 163,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5245.58,
+                "Purchase_Date": "10/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 460,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 95924.38,
+                "Purchase_Date": "9/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 346,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 16134.21,
+                "Purchase_Date": "9/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 785,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 38952.8,
+                "Purchase_Date": "6/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 304,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 10378.35,
+                "Purchase_Date": "6/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 868,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 49041.52,
+                "Purchase_Date": "6/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 279,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 24550.3,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 475,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 42330.79,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 130,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 8391.26,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 476,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 28143.11,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 282,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1528.91,
+                "Purchase_Date": "11/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 921,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4213.48,
+                "Purchase_Date": "11/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 740,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1333.86,
+                "Purchase_Date": "11/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 640,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1341.23,
+                "Purchase_Date": "11/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 294,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000014": {
+        "Company Name": "AI and Machine Learning Chicago",
+        "Password": "AIandMachineLearningChicago#123",
+        "Industry": "AI and Machine Learning",
+        "Location": "Chicago",
+        "Revenue (in dollars)": "80M-120M",
+        "No of Employees": "500-1000",
+        "Credit Rating": "AAA",
+        "Annual Growth Rate": "23.92%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 8241.47,
+                "Purchase_Date": "8/20/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 633,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 7404.49,
+                "Purchase_Date": "8/20/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 999,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 2197.25,
+                "Purchase_Date": "8/20/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 538,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 3884.97,
+                "Purchase_Date": "8/20/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 600,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 179.52,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 734,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4587.56,
+                "Purchase_Date": "9/20/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 291,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2185585.35,
+                "Purchase_Date": "3/13/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 941,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 4972037.69,
+                "Purchase_Date": "3/13/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 847,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1118462.52,
+                "Purchase_Date": "3/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 663,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2861230.24,
+                "Purchase_Date": "3/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 963,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 32348.37,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 460,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 46202.54,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 116,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 153280.53,
+                "Purchase_Date": "7/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 983,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 122661.11,
+                "Purchase_Date": "7/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 157,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 100979.11,
+                "Purchase_Date": "7/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "ADP",
+                "Transaction_id": 506,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 9170.77,
+                "Purchase_Date": "7/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 128,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 13576.26,
+                "Purchase_Date": "3/25/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 586,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 5176.68,
+                "Purchase_Date": "3/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 980,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 48645.86,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 704,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 41093.18,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 377,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 39500.86,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 713,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 29843.95,
+                "Purchase_Date": "8/13/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 655,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000015": {
+        "Company Name": "IT Services and Software Development Miami",
+        "Password": "ITServicesandSoftwareDevelopmentMiami#123",
+        "Industry": "IT Services and Software Development",
+        "Location": "Miami",
+        "Revenue (in dollars)": "200M-300M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "BB",
+        "Annual Growth Rate": "23.92%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 2908.88,
+                "Purchase_Date": "4/3/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 699,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5141.81,
+                "Purchase_Date": "4/3/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 272,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 9192.28,
+                "Purchase_Date": "4/3/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 401,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 880653.55,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 689,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 743207.6,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 942,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 385626.57,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 838,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 66441.28,
+                "Purchase_Date": "10/17/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Gusto",
+                "Transaction_id": 134,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 21502.26,
+                "Purchase_Date": "10/17/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 109,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Salary Payment",
+                "Category": "Payroll",
+                "Amount": 29535.53,
+                "Purchase_Date": "10/17/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Paychex",
+                "Transaction_id": 727,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 396133.92,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 408,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 215531.49,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 399,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 468541.45,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 737,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 92299.69,
+                "Purchase_Date": "5/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 608,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 153875.17,
+                "Purchase_Date": "6/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 641,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 453097.7,
+                "Purchase_Date": "6/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 681,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5189.31,
+                "Purchase_Date": "5/17/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 509,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 3835.87,
+                "Purchase_Date": "5/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 665,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1141.4,
+                "Purchase_Date": "5/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 468,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000016": {
+        "Company Name": "Construction and Real Estate Chicago",
+        "Password": "ConstructionandRealEstateChicago#123",
+        "Industry": "Construction and Real Estate",
+        "Location": "Chicago",
+        "Revenue (in dollars)": "50M-80M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "BBB",
+        "Annual Growth Rate": "23.86%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 7054.66,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 272,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 3833.79,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 723,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5148.45,
+                "Purchase_Date": "5/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 569,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 2737.1,
+                "Purchase_Date": "5/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 765,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 7608.72,
+                "Purchase_Date": "5/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 294,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 7055.49,
+                "Purchase_Date": "5/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 905,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 1718.7,
+                "Purchase_Date": "7/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 179,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 6827.08,
+                "Purchase_Date": "7/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 888,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4442.19,
+                "Purchase_Date": "7/8/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 291,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 6831.84,
+                "Purchase_Date": "7/8/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 623,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000017": {
+        "Company Name": "Pharmaceuticals and Biotechnology San Francisco",
+        "Password": "PharmaceuticalsandBiotechnologySanFrancisco#123",
+        "Industry": "Pharmaceuticals and Biotechnology",
+        "Location": "San Francisco",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "200-500",
+        "Credit Rating": "D",
+        "Annual Growth Rate": "17.6%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 31269.64,
+                "Purchase_Date": "4/26/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 256,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 46319.15,
+                "Purchase_Date": "4/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 100,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 31095.31,
+                "Purchase_Date": "4/26/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 890,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 47788.11,
+                "Purchase_Date": "4/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 182,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 35677.56,
+                "Purchase_Date": "11/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 995,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 37657.34,
+                "Purchase_Date": "11/15/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 271,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 42887.29,
+                "Purchase_Date": "11/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 316,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 43588.86,
+                "Purchase_Date": "11/15/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 732,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 83455.18,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 403,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 65012.7,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "MetLife",
+                "Transaction_id": 500,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 32596.65,
+                "Purchase_Date": "8/26/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Allianz",
+                "Transaction_id": 444,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 14143.75,
+                "Purchase_Date": "9/16/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 962,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 4878.55,
+                "Purchase_Date": "9/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 114,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000018": {
+        "Company Name": "Media and Entertainment Orlando",
+        "Password": "MediaandEntertainmentOrlando#123",
+        "Industry": "Media and Entertainment",
+        "Location": "Orlando",
+        "Revenue (in dollars)": "200M-300M",
+        "No of Employees": "800-1500",
+        "Credit Rating": "BBB",
+        "Annual Growth Rate": "11.97%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 9596.42,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 677,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 9775.27,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 971,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 32649.05,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 506,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 8925.22,
+                "Purchase_Date": "2/11/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 859,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5403.86,
+                "Purchase_Date": "2/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 542,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 460043.31,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 218,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 22644.34,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 138,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 783326.29,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 808,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 253292.92,
+                "Purchase_Date": "10/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 456,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 22330.81,
+                "Purchase_Date": "11/19/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 861,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 12091.09,
+                "Purchase_Date": "11/19/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 821,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 22398.31,
+                "Purchase_Date": "11/19/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 613,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 38129.49,
+                "Purchase_Date": "11/19/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 131,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000019": {
+        "Company Name": "Food and Beverage Denver",
+        "Password": "FoodandBeverageDenver#123",
+        "Industry": "Food and Beverage",
+        "Location": "Denver",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "1000-2500",
+        "Credit Rating": "B",
+        "Annual Growth Rate": "13.75%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 27748.36,
+                "Purchase_Date": "2/25/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 139,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 36614.34,
+                "Purchase_Date": "2/25/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 408,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 46775.72,
+                "Purchase_Date": "2/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 642,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 12194.35,
+                "Purchase_Date": "2/25/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 540,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 4517.77,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 363,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 7785.93,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 802,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3744.42,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 449,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4337.9,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 274,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3646.95,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 139,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2265.32,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 724,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000020": {
+        "Company Name": "IT Services and Software Development San Diego",
+        "Password": "ITServicesandSoftwareDevelopmentSanDiego#123",
+        "Industry": "IT Services and Software Development",
+        "Location": "San Diego",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "200-500",
+        "Credit Rating": "B",
+        "Annual Growth Rate": "2.06%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 17613.78,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 359,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 14584.51,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 463,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 8033.95,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 210,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 10230.21,
+                "Purchase_Date": "1/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 739,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 12206.87,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 286,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 27324.11,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 703,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 13894.26,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 256,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 31203.1,
+                "Purchase_Date": "12/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 690,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 41168.51,
+                "Purchase_Date": "5/28/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 251,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 101421.99,
+                "Purchase_Date": "5/28/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 182,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 58224.36,
+                "Purchase_Date": "5/28/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Fidelity",
+                "Transaction_id": 404,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5337.94,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 607,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 9081.72,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 845,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5556.21,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 695,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 3897.55,
+                "Purchase_Date": "4/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 495,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000021": {
+        "Company Name": "Telecommunications Dallas",
+        "Password": "TelecommunicationsDallas#123",
+        "Industry": "Telecommunications",
+        "Location": "Dallas",
+        "Revenue (in dollars)": "50M-80M",
+        "No of Employees": "500-1000",
+        "Credit Rating": "C",
+        "Annual Growth Rate": "19.59%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 519776.7,
+                "Purchase_Date": "11/28/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 549,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 868976.8,
+                "Purchase_Date": "11/28/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 310,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 681900.89,
+                "Purchase_Date": "11/28/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Wells Fargo",
+                "Transaction_id": 134,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 9618.98,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 719,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 18273.05,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 595,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 14157.58,
+                "Purchase_Date": "1/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 372,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 43503.78,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 674,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 25577.69,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 494,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 11790.13,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 244,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 46119.65,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 961,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 30158.18,
+                "Purchase_Date": "6/17/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 992,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 6324.99,
+                "Purchase_Date": "6/17/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 891,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 40531.12,
+                "Purchase_Date": "6/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 362,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000022": {
+        "Company Name": "Agriculture and Organic Food Production Dallas",
+        "Password": "AgricultureandOrganicFoodProductionDallas#123",
+        "Industry": "Agriculture and Organic Food Production",
+        "Location": "Dallas",
+        "Revenue (in dollars)": "20M-30M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "B",
+        "Annual Growth Rate": "13.38%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1318.48,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 509,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2771.62,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 874,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 380.56,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 370,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 3747.0,
+                "Purchase_Date": "4/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 559,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 27360.66,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 361,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 48786.57,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 362,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 6397.63,
+                "Purchase_Date": "7/3/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 756,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 30059.55,
+                "Purchase_Date": "3/1/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 616,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 10714.95,
+                "Purchase_Date": "3/1/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 102,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 15205.6,
+                "Purchase_Date": "6/27/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 891,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 9492.43,
+                "Purchase_Date": "6/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 702,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 32620.45,
+                "Purchase_Date": "6/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 721,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000023": {
+        "Company Name": "Luxury Fashion and Apparel Los Angeles",
+        "Password": "LuxuryFashionandApparelLosAngeles#123",
+        "Industry": "Luxury Fashion and Apparel",
+        "Location": "Los Angeles",
+        "Revenue (in dollars)": "80M-120M",
+        "No of Employees": "500-1000",
+        "Credit Rating": "AAA",
+        "Annual Growth Rate": "16.23%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2816588.69,
+                "Purchase_Date": "2/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 889,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 4154832.93,
+                "Purchase_Date": "2/21/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 181,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2187918.81,
+                "Purchase_Date": "2/21/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 152,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1308967.46,
+                "Purchase_Date": "2/21/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 202,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1428.57,
+                "Purchase_Date": "4/25/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 602,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1974.98,
+                "Purchase_Date": "4/25/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Stripe",
+                "Transaction_id": 673,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 825967.5,
+                "Purchase_Date": "7/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 327,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 844310.07,
+                "Purchase_Date": "7/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 680,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Loan Disbursement",
+                "Category": "SME Growth",
+                "Amount": 185513.75,
+                "Purchase_Date": "7/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 821,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 426512.76,
+                "Purchase_Date": "6/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 158,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retirement Fund Contribution",
+                "Category": "Pension Management",
+                "Amount": 438497.13,
+                "Purchase_Date": "6/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 668,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 4114628.34,
+                "Purchase_Date": "9/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Sequoia Capital",
+                "Transaction_id": 534,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 2457081.14,
+                "Purchase_Date": "9/7/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 144,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 9699.35,
+                "Purchase_Date": "6/1/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 779,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5941.63,
+                "Purchase_Date": "6/1/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 513,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 6413.07,
+                "Purchase_Date": "6/1/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 281,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 2048.27,
+                "Purchase_Date": "6/1/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 467,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000024": {
+        "Company Name": "IT Services and Software Development Portland",
+        "Password": "ITServicesandSoftwareDevelopmentPortland#123",
+        "Industry": "IT Services and Software Development",
+        "Location": "Portland",
+        "Revenue (in dollars)": "500M-700M",
+        "No of Employees": "1000-2500",
+        "Credit Rating": "C",
+        "Annual Growth Rate": "21.22%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1758.34,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 298,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1768.05,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 195,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 1543.54,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 277,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 885.25,
+                "Purchase_Date": "4/21/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 620,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 2321.01,
+                "Purchase_Date": "10/4/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Square",
+                "Transaction_id": 497,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 4398.53,
+                "Purchase_Date": "10/4/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 371,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Subscription Fee",
+                "Category": "Online Payments",
+                "Amount": 570.7,
+                "Purchase_Date": "10/4/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "PayPal",
+                "Transaction_id": 445,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1572524.83,
+                "Purchase_Date": "1/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 629,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 203999.44,
+                "Purchase_Date": "1/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 617,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 20082.21,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 835,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 40564.82,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 441,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Business Purchase",
+                "Category": "Corporate Expenses",
+                "Amount": 30960.92,
+                "Purchase_Date": "10/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 668,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 612446.27,
+                "Purchase_Date": "5/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Sequoia Capital",
+                "Transaction_id": 501,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1116534.76,
+                "Purchase_Date": "5/25/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Y Combinator",
+                "Transaction_id": 716,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Venture Capital Investment",
+                "Category": "Startup Funding",
+                "Amount": 1170423.45,
+                "Purchase_Date": "5/25/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "SoftBank",
+                "Transaction_id": 833,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    "CG_US_000025": {
+        "Company Name": "Cybersecurity Miami",
+        "Password": "CybersecurityMiami#123",
+        "Industry": "Cybersecurity",
+        "Location": "Miami",
+        "Revenue (in dollars)": "80M-120M",
+        "No of Employees": "2500-5000",
+        "Credit Rating": "BB",
+        "Annual Growth Rate": "11.97%",
+        "Transactions": [
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 74553.75,
+                "Purchase_Date": "5/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "MetLife",
+                "Transaction_id": 227,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 14660.28,
+                "Purchase_Date": "5/15/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 896,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Insurance Premium Payment",
+                "Category": "Insurance",
+                "Amount": 44952.22,
+                "Purchase_Date": "5/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "AIG",
+                "Transaction_id": 475,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 19180.64,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "PwC",
+                "Transaction_id": 410,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 49307.62,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "KPMG",
+                "Transaction_id": 258,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 11112.77,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 329,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tax Consultation Fee",
+                "Category": "Tax Advisory",
+                "Amount": 29969.76,
+                "Purchase_Date": "4/22/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Deloitte",
+                "Transaction_id": 220,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 19461.82,
+                "Purchase_Date": "12/5/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 466,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 8047.83,
+                "Purchase_Date": "12/5/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 787,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 8391.42,
+                "Purchase_Date": "12/5/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 688,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 926.82,
+                "Purchase_Date": "10/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Office Depot",
+                "Transaction_id": 194,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 5808.76,
+                "Purchase_Date": "10/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Staples",
+                "Transaction_id": 862,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 4445.28,
+                "Purchase_Date": "10/24/2024",
+                "Payment_Mode": "Corporate Account",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 617,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Office Equipment Purchase",
+                "Category": "Office Supplies",
+                "Amount": 7460.58,
+                "Purchase_Date": "10/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Business",
+                "Transaction_id": 154,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 13164.59,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 758,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 48412.46,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Ads",
+                "Transaction_id": 671,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 15610.42,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "LinkedIn Ads",
+                "Transaction_id": 443,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 11991.01,
+                "Purchase_Date": "1/6/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 534,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Advertising Campaign",
+                "Category": "Marketing",
+                "Amount": 16595.74,
+                "Purchase_Date": "1/6/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Meta Marketing",
+                "Transaction_id": 948,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 3882.2,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 170,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 15700.75,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 466,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 17181.9,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 916,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Business Travel",
+                "Amount": 12521.0,
+                "Purchase_Date": "6/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Hilton Hotels",
+                "Transaction_id": 689,
+                "Currency": "Dollar"
+            }
+        ]
+    }
+}

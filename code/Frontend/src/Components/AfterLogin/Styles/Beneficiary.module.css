@@ -1,0 +1,53 @@
+.mytable {
+    margin : 40px;
+    border-collapse: separate;
+    border-spacing: 0;
+    width : 100vh;
+    border : 2px solid black;
+}
+.mytable td, .mytable th{
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.container{
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.mytable tbody tr:nth-child(even) {
+    background-color: #d9e5f8; 
+}
+.addBeneficiary {
+  position: relative;
+  top: 10px;
+  right: 10px;
+  padding: 10px;
+  background-color: #2b75c5;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: medium;
+}
+.header{
+    display: flex;
+    
+}
+.buttonContainer {
+    padding-bottom: 15px;
+    padding: 20px;
+    padding-left:30px ;
+
+  }
+.btn {
+    border-radius: 5px;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    color : white;
+    background-color: green;
+    border: 1px solid black;
+}
+  

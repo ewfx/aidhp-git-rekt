@@ -1,0 +1,107 @@
+body {
+    font-family: "Inter", sans-serif;
+    line-height: 1.5;
+    min-height: 100vh;
+    padding: 5rem 0;
+    font-size: clamp(1rem, 2.5vw, 1.125rem);
+}
+
+section {
+    border: 3px solid rgb(92, 82, 82);
+    border-radius: 5px;
+    width: 90%;
+    max-width: 800px;
+    margin-left: 23%;
+    margin-right: 10%;
+}
+
+h1 {
+    color: lightcoral;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.125;
+    font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+}
+
+summary {
+    height: auto; /* Remove fixed height */
+    background-color: #fff;
+    position: relative;
+    cursor: pointer;
+    padding: 1em .5em;
+    list-style: none;
+    
+    &:hover {
+        background-color: #f2f5f9;
+    }
+    
+    div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center; /* Vertically align items */
+    }
+    
+    span {
+        width: 30%;
+        font-size: 1rem; /* Adjust the font size as needed */
+    }
+    
+    small {
+        color: #999;
+        font-size: .875em;
+    }
+    
+    strong {
+        width: 30%;
+        font-weight: 700;
+        color: #999;
+    }
+    
+    &:focus {
+        outline: none;
+    }
+    
+    .plus {
+        color: #289672;
+    }
+}
+
+details {
+    border-bottom: 1px solid #b5bfd9;
+    margin-bottom: 0.5em;
+    padding: 0.5em 1em;
+}
+
+/* Remove box-shadow for open details to further reduce height */
+details[open] {
+    box-shadow: none;
+}
+
+/* Add space between details elements */
+details + details {
+    margin-top: 0.5em;
+}
+
+dl {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row; /* Display children in a row layout */
+}
+
+dt {
+    color: #202999;
+    font-weight: 700;
+    width: 30%; /* Adjust the width to your desired value */
+}
+
+dd {
+    width: 70%; /* Adjust the width to your desired value */
+    margin-left: 0; /* Add a left margin for separation */
+    margin-right: 5em;
+}
+
+
+.lastTransaction {
+    border-bottom: none; /* Remove the border for the last transaction */
+    margin-bottom: 0; /* Remove any extra margin at the bottom for the last transaction */
+  }

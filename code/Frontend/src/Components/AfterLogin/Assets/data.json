@@ -1,0 +1,75 @@
+[
+    {
+        "firstName": "Jayanth",
+        "lastName":"Namburi",
+        "accountNumber":12234455,
+        "fatherName": "qververfvsdcvsvsdvedaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":1200
+    },
+    {
+        "firstName": "Ja",
+        "lastName":"Namburi",
+        "accountNumber":12334455,
+        "fatherName": "qververfvsdcvsvsdvedaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":1020
+    },
+    {
+        "firstName": "jay",
+        "lastName":"Namburi",
+        "accountNumber":12234455,
+        "fatherName": "qververfvsdcvsvsdvedaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":1002
+    },
+    {
+        "firstName": "Rahul",
+        "lastName":"Narapureddy",
+        "accountNumber":12235455,
+        "fatherName": "qaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":2000
+    },
+    {
+        "firstName": "Pravallika",
+        "lastName":"Narala",
+        "accountNumber":12236455,
+        "fatherName": "qaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":3000
+    },
+    {
+        "firstName": "Vijay",
+        "lastName":"Laghisetti",
+        "accountNumber":12234455,
+        "fatherName": "qaz",
+        "mobileNumber":"8333848085",
+        "address":"qaz",
+        "email":"n@gmail.com",
+        "dob":"27-05-2002",
+        "aadhar":123456789012,
+        "balance":7000
+    }
+]
+    

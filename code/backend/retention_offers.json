@@ -1,0 +1,73 @@
+{
+    "retention_offers": {
+        "Retail": [
+            {
+                "customer_issue": "Dissatisfied with Credit Card Rewards",
+                "likely_reason_for_leaving": "Low perceived value in rewards",
+                "retention_offer": "Bonus Rewards: Extra cashback or reward points for 3 months"
+            },
+            {
+                "customer_issue": "High Loan Interest Rates",
+                "likely_reason_for_leaving": "Competitor banks offering lower rates",
+                "retention_offer": "Rate Matching: Offer a reduced interest rate or refinancing options"
+            },
+            {
+                "customer_issue": "Frequent Transaction Fees",
+                "likely_reason_for_leaving": "Excessive charges on banking services",
+                "retention_offer": "Fee Waivers: 6-month waiver on maintenance/ATM/transfer fees"
+            },
+            {
+                "customer_issue": "Slow Customer Support",
+                "likely_reason_for_leaving": "Long response time or poor service",
+                "retention_offer": "Dedicated Support Line: Exclusive priority customer service for select users"
+            },
+            {
+                "customer_issue": "App/Online Banking Issues",
+                "likely_reason_for_leaving": "Frustration with slow/unreliable banking app",
+                "retention_offer": "Premium Digital Banking: Free upgrade to premium online banking features"
+            },
+            {
+                "customer_issue": "Dissatisfied with Account Benefits",
+                "likely_reason_for_leaving": "No unique advantages compared to competitors",
+                "retention_offer": "Account Upgrade: Free upgrade to a higher-tier account with better perks"
+            }
+        ],
+        "Commercial": [
+            {
+                "customer_issue": "High Business Loan Interest Rates",
+                "likely_reason_for_leaving": "Competitor banks offering lower rates",
+                "retention_offer": "Rate Adjustment: Offer a lower interest rate or refinancing options"
+            },
+            {
+                "customer_issue": "Limited Business Credit Line",
+                "likely_reason_for_leaving": "Insufficient credit limit for expansion",
+                "retention_offer": "Credit Line Increase: Offer a higher credit limit with flexible terms"
+            },
+            {
+                "customer_issue": "Delayed Payment Processing",
+                "likely_reason_for_leaving": "Slow transaction settlements affecting cash flow",
+                "retention_offer": "Priority Processing: Faster payment settlements for corporate clients"
+            },
+            {
+                "customer_issue": "Limited Forex and International Banking Options",
+                "likely_reason_for_leaving": "Better forex rates and services offered by competitors",
+                "retention_offer": "Exclusive Forex Rates: Provide lower foreign exchange fees and better rates"
+            },
+            {
+                "customer_issue": "Rigid Corporate Loan Repayment Terms",
+                "likely_reason_for_leaving": "Lack of flexible repayment options",
+                "retention_offer": "Custom Loan Plans: Offer flexible repayment options and deferred payments"
+            },
+            {
+                "customer_issue": "High Transaction Fees for Business Accounts",
+                "likely_reason_for_leaving": "Excessive fees on bulk transactions",
+                "retention_offer": "Fee Waivers: 6-month waiver on business transaction fees"
+            },
+            {
+                "customer_issue": "Lack of Digital Banking Features for Corporates",
+                "likely_reason_for_leaving": "Competitor banks offering better digital business tools",
+                "retention_offer": "Corporate Digital Banking Suite: Free upgrade to premium online banking features"
+            }
+        ]
+    }
+}

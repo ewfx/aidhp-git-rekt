@@ -1,0 +1,4557 @@
+[
+    {
+        "Name": "Emma",
+        "Password": "Emma#123",
+        "Customer_Id": "CUST000001",
+        "Age": 38,
+        "Gender": "F",
+        "Location": "Seattle",
+        "Income per Year": 77743,
+        "Education": "PhD",
+        "Occupation": "Artist",
+        "Credit Score": 575,
+        "Monthly Expenses": 8368.33,
+        "Transactions": [
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 14.07,
+                "Purchase_Date": "05/05/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 633,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 12.58,
+                "Purchase_Date": "05/05/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 706,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 10.87,
+                "Purchase_Date": "05/05/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 799,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 12.1,
+                "Purchase_Date": "05/05/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 558,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1261.14,
+                "Purchase_Date": "05/19/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 469,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1302.04,
+                "Purchase_Date": "05/19/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 500,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2823.48,
+                "Purchase_Date": "05/19/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 924,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 455.49,
+                "Purchase_Date": "05/19/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 223,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2721.25,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 734,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2062.83,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 329,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3127.37,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 190,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 786.13,
+                "Purchase_Date": "01/13/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 204,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 296.53,
+                "Purchase_Date": "01/13/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 816,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 23.0,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Burger King",
+                "Transaction_id": 907,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 5.79,
+                "Purchase_Date": "10/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 843,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2530.91,
+                "Purchase_Date": "05/16/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 536,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1822.75,
+                "Purchase_Date": "05/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Merrill Lynch",
+                "Transaction_id": 922,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4580.11,
+                "Purchase_Date": "05/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 465,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1229.59,
+                "Purchase_Date": "08/28/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 224,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1354.76,
+                "Purchase_Date": "08/28/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 119,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1118.89,
+                "Purchase_Date": "08/28/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 168,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 603.83,
+                "Purchase_Date": "08/28/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 787,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 400.05,
+                "Purchase_Date": "12/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 966,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 860.25,
+                "Purchase_Date": "12/23/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 518,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 272.42,
+                "Purchase_Date": "12/23/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 891,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 250.81,
+                "Purchase_Date": "12/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 521,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 130.81,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 163,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 456.81,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 330,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 167.86,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 869,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 276.92,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 675,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Zach",
+        "Password": "Zach#123",
+        "Customer_Id": "CUST000002",
+        "Age": 36,
+        "Gender": "F",
+        "Location": "Los Angeles",
+        "Income per Year": 122042,
+        "Education": "Associate Degree",
+        "Occupation": "Architect",
+        "Credit Score": 318,
+        "Monthly Expenses": 1807.3,
+        "Transactions": [
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1164.9,
+                "Purchase_Date": "04/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 483,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2553.13,
+                "Purchase_Date": "04/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 524,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3088.05,
+                "Purchase_Date": "04/17/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 965,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4884.53,
+                "Purchase_Date": "04/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 234,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4306.36,
+                "Purchase_Date": "04/05/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 602,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2105.68,
+                "Purchase_Date": "04/05/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 596,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3386.76,
+                "Purchase_Date": "04/05/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 969,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4486.68,
+                "Purchase_Date": "04/05/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 939,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 81.91,
+                "Purchase_Date": "09/03/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 780,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 131.9,
+                "Purchase_Date": "09/03/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 870,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 413.73,
+                "Purchase_Date": "05/28/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 427,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 697.25,
+                "Purchase_Date": "05/28/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 519,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 623.92,
+                "Purchase_Date": "05/28/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Target",
+                "Transaction_id": 365,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 836.29,
+                "Purchase_Date": "05/28/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Target",
+                "Transaction_id": 361,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 2634.79,
+                "Purchase_Date": "02/15/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Rolex",
+                "Transaction_id": 177,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 18452.22,
+                "Purchase_Date": "02/15/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Louis Vuitton",
+                "Transaction_id": 461,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 58.21,
+                "Purchase_Date": "09/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 822,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 104.5,
+                "Purchase_Date": "09/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 962,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 56.96,
+                "Purchase_Date": "09/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 631,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 314.03,
+                "Purchase_Date": "09/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Target",
+                "Transaction_id": 655,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 45.91,
+                "Purchase_Date": "08/31/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 891,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 20.25,
+                "Purchase_Date": "08/31/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 626,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 23.09,
+                "Purchase_Date": "08/31/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 680,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 12.2,
+                "Purchase_Date": "08/31/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 673,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 23.84,
+                "Purchase_Date": "04/13/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 237,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 22.08,
+                "Purchase_Date": "04/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 514,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 34.55,
+                "Purchase_Date": "04/13/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 270,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 29.26,
+                "Purchase_Date": "04/13/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 934,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1960.04,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 271,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 710.0,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 487,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2277.0,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 323,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1433.27,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 646,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 478.22,
+                "Purchase_Date": "10/15/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 874,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 949.3,
+                "Purchase_Date": "10/15/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 498,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Henry",
+        "Password": "Henry#123",
+        "Customer_Id": "CUST000003",
+        "Age": 61,
+        "Gender": "F",
+        "Location": "Portland",
+        "Income per Year": 245173,
+        "Education": "Diploma",
+        "Occupation": "Marketing Manager",
+        "Credit Score": 603,
+        "Monthly Expenses": 7596.96,
+        "Transactions": [
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3670.31,
+                "Purchase_Date": "02/20/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 224,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 688.82,
+                "Purchase_Date": "02/20/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 511,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3497.16,
+                "Purchase_Date": "02/20/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 982,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3623.82,
+                "Purchase_Date": "02/20/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 139,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 226.94,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 777,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 448.36,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 415,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 58.96,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 537,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1188.9,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 312,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1221.14,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 714,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1780.62,
+                "Purchase_Date": "10/12/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 218,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 201.99,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 888,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 708.57,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 874,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 968.76,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 746,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 109.96,
+                "Purchase_Date": "12/31/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 199,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 620.14,
+                "Purchase_Date": "12/31/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 113,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 517.65,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Target",
+                "Transaction_id": 765,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 854.72,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 693,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 340.11,
+                "Purchase_Date": "09/27/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 762,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 197.31,
+                "Purchase_Date": "09/27/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 594,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 234.26,
+                "Purchase_Date": "09/27/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 879,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 485.97,
+                "Purchase_Date": "09/27/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 247,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 270.0,
+                "Purchase_Date": "07/10/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 785,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 222.21,
+                "Purchase_Date": "07/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 751,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 130.78,
+                "Purchase_Date": "03/31/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 451,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 48.16,
+                "Purchase_Date": "03/31/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 512,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 75.89,
+                "Purchase_Date": "03/31/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 940,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 445.89,
+                "Purchase_Date": "08/09/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 611,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 63.0,
+                "Purchase_Date": "08/09/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 662,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 409.48,
+                "Purchase_Date": "08/09/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 641,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 461.24,
+                "Purchase_Date": "08/09/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 701,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Bob",
+        "Password": "Bob#123",
+        "Customer_Id": "CUST000004",
+        "Age": 76,
+        "Gender": "F",
+        "Location": "Dallas",
+        "Income per Year": 209718,
+        "Education": "MBA",
+        "Occupation": "Software Engineer",
+        "Credit Score": 752,
+        "Monthly Expenses": 8415.31,
+        "Transactions": [
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 369.22,
+                "Purchase_Date": "05/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 127,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 449.41,
+                "Purchase_Date": "05/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 842,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 305.21,
+                "Purchase_Date": "05/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 845,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 235.59,
+                "Purchase_Date": "05/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 357,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 3416.52,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 529,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9341.77,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 725,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 6548.4,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 679,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 1166.73,
+                "Purchase_Date": "12/10/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 198,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3376.0,
+                "Purchase_Date": "09/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 717,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 550.67,
+                "Purchase_Date": "09/12/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 300,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 678.39,
+                "Purchase_Date": "09/12/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 414,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1625.97,
+                "Purchase_Date": "03/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 138,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 2299.63,
+                "Purchase_Date": "03/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 658,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 4407.29,
+                "Purchase_Date": "03/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 692,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1151.76,
+                "Purchase_Date": "03/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 603,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 402.01,
+                "Purchase_Date": "04/06/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 313,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 179.98,
+                "Purchase_Date": "04/06/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 181,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 413.59,
+                "Purchase_Date": "04/06/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 756,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 269.47,
+                "Purchase_Date": "03/29/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Southwest Airlines",
+                "Transaction_id": 737,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 227.48,
+                "Purchase_Date": "03/29/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Southwest Airlines",
+                "Transaction_id": 553,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 261.26,
+                "Purchase_Date": "03/29/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Southwest Airlines",
+                "Transaction_id": 766,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 68.68,
+                "Purchase_Date": "03/29/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 227,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Wendy",
+        "Password": "Wendy#123",
+        "Customer_Id": "CUST000005",
+        "Age": 56,
+        "Gender": "M",
+        "Location": "Dallas",
+        "Income per Year": 216951,
+        "Education": "MBA",
+        "Occupation": "Data Scientist",
+        "Credit Score": 825,
+        "Monthly Expenses": 4731.99,
+        "Transactions": [
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 496.46,
+                "Purchase_Date": "10/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 987,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 319.33,
+                "Purchase_Date": "10/21/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 168,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 167.94,
+                "Purchase_Date": "10/21/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 618,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 490.25,
+                "Purchase_Date": "07/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 526,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 298.08,
+                "Purchase_Date": "07/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 730,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 384.25,
+                "Purchase_Date": "07/11/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 528,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 104.44,
+                "Purchase_Date": "07/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 267,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 81.75,
+                "Purchase_Date": "05/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 828,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 11.13,
+                "Purchase_Date": "05/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 122,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 31.89,
+                "Purchase_Date": "05/24/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Regal Cinemas",
+                "Transaction_id": 198,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 6721.47,
+                "Purchase_Date": "09/16/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 784,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 4398.34,
+                "Purchase_Date": "09/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 789,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 5464.17,
+                "Purchase_Date": "09/16/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 763,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 3785.21,
+                "Purchase_Date": "09/16/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 512,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 31.57,
+                "Purchase_Date": "01/06/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 699,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 32.64,
+                "Purchase_Date": "01/06/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 845,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9748.99,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 793,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 5183.37,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 491,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 910.42,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 431,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 307.78,
+                "Purchase_Date": "12/04/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 416,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 108.5,
+                "Purchase_Date": "12/04/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 154,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 451.44,
+                "Purchase_Date": "12/04/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 543,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Paul",
+        "Password": "Paul#123",
+        "Customer_Id": "CUST000006",
+        "Age": 72,
+        "Gender": "F",
+        "Location": "Las Vegas",
+        "Income per Year": 162245,
+        "Education": "Graduate",
+        "Occupation": "Insurance Agent",
+        "Credit Score": 669,
+        "Monthly Expenses": 9915.03,
+        "Transactions": [
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 49.16,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 718,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 5.61,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 508,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 11.89,
+                "Purchase_Date": "10/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 125,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 4039.61,
+                "Purchase_Date": "07/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 299,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1627.25,
+                "Purchase_Date": "07/24/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 587,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 5501.19,
+                "Purchase_Date": "07/31/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 976,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9945.89,
+                "Purchase_Date": "07/31/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 340,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 4391.59,
+                "Purchase_Date": "07/31/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 235,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 280.58,
+                "Purchase_Date": "09/18/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 781,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 283.47,
+                "Purchase_Date": "09/18/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 722,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 300.76,
+                "Purchase_Date": "11/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 393,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 364.17,
+                "Purchase_Date": "11/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 449,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 220.55,
+                "Purchase_Date": "11/23/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 335,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3995.8,
+                "Purchase_Date": "04/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 878,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3533.99,
+                "Purchase_Date": "04/26/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 624,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3941.63,
+                "Purchase_Date": "04/26/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 801,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 2653.63,
+                "Purchase_Date": "04/26/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 839,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 652.62,
+                "Purchase_Date": "02/18/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 750,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 425.44,
+                "Purchase_Date": "02/18/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 371,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 579.76,
+                "Purchase_Date": "02/18/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 710,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 615.52,
+                "Purchase_Date": "02/18/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 317,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 81.74,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Regal Cinemas",
+                "Transaction_id": 663,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 63.45,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 409,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 15.51,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 964,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 32.82,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Regal Cinemas",
+                "Transaction_id": 212,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 233.73,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 104,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 176.05,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 298,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 154.68,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 468,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 426.19,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 277,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Quinn",
+        "Password": "Quinn#123",
+        "Customer_Id": "CUST000007",
+        "Age": 56,
+        "Gender": "M",
+        "Location": "New York",
+        "Income per Year": 234374,
+        "Education": "Master's",
+        "Occupation": "Software Developer",
+        "Credit Score": 445,
+        "Monthly Expenses": 2507.39,
+        "Transactions": [
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 11.25,
+                "Purchase_Date": "06/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 738,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 228.09,
+                "Purchase_Date": "06/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Starbucks",
+                "Transaction_id": 867,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 16.46,
+                "Purchase_Date": "06/11/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 696,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1578.59,
+                "Purchase_Date": "11/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 264,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2463.45,
+                "Purchase_Date": "11/11/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 237,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2155.73,
+                "Purchase_Date": "11/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 728,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Frank",
+        "Password": "Frank#123",
+        "Customer_Id": "CUST000008",
+        "Age": 73,
+        "Gender": "M",
+        "Location": "Washington D.C.",
+        "Income per Year": 65743,
+        "Education": "Under-Graduate",
+        "Occupation": "Entrepreneur",
+        "Credit Score": 381,
+        "Monthly Expenses": 9815.59,
+        "Transactions": [
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 7708.22,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 436,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 8684.56,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 336,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 28.34,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 565,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 24.64,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 523,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 42.18,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon Prime",
+                "Transaction_id": 548,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 26.49,
+                "Purchase_Date": "07/03/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 559,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 124.91,
+                "Purchase_Date": "03/07/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Starbucks",
+                "Transaction_id": 991,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 294.27,
+                "Purchase_Date": "03/07/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Starbucks",
+                "Transaction_id": 524,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 635.96,
+                "Purchase_Date": "05/30/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 505,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 820.42,
+                "Purchase_Date": "05/30/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 232,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 18.1,
+                "Purchase_Date": "02/22/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 796,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 5.99,
+                "Purchase_Date": "02/22/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 984,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 29.84,
+                "Purchase_Date": "02/22/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 712,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 38.18,
+                "Purchase_Date": "02/22/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 911,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "David",
+        "Password": "David#123",
+        "Customer_Id": "CUST000009",
+        "Age": 72,
+        "Gender": "F",
+        "Location": "Austin",
+        "Income per Year": 178163,
+        "Education": "Under-Graduate",
+        "Occupation": "Insurance Agent",
+        "Credit Score": 399,
+        "Monthly Expenses": 9333.83,
+        "Transactions": [
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4025.09,
+                "Purchase_Date": "12/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 266,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4437.7,
+                "Purchase_Date": "12/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 490,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4421.22,
+                "Purchase_Date": "12/13/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 953,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 3037.08,
+                "Purchase_Date": "12/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 884,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 142.04,
+                "Purchase_Date": "06/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Barnes & Noble",
+                "Transaction_id": 923,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 24.85,
+                "Purchase_Date": "06/05/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 490,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 129.69,
+                "Purchase_Date": "06/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 621,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Olivia",
+        "Password": "Olivia#123",
+        "Customer_Id": "CUST000010",
+        "Age": 67,
+        "Gender": "F",
+        "Location": "San Diego",
+        "Income per Year": 211488,
+        "Education": "Associate Degree",
+        "Occupation": "Civil Engineer",
+        "Credit Score": 435,
+        "Monthly Expenses": 6301.06,
+        "Transactions": [
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 995.29,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 376,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1828.67,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 574,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Mia",
+        "Password": "Mia#123",
+        "Customer_Id": "CUST000011",
+        "Age": 59,
+        "Gender": "M",
+        "Location": "Las Vegas",
+        "Income per Year": 141916,
+        "Education": "Diploma",
+        "Occupation": "Financial Advisor",
+        "Credit Score": 803,
+        "Monthly Expenses": 3383.17,
+        "Transactions": [
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 100.56,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 552,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 25.16,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 491,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 142.64,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 133,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 67.91,
+                "Purchase_Date": "03/28/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 693,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2883.82,
+                "Purchase_Date": "09/19/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 340,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 883.63,
+                "Purchase_Date": "09/19/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 728,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1947.67,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 823,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 3133.1,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 189,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1241.55,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Merrill Lynch",
+                "Transaction_id": 169,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 30.1,
+                "Purchase_Date": "02/03/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 302,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 5.01,
+                "Purchase_Date": "02/03/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 687,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 34.42,
+                "Purchase_Date": "02/03/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 950,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Grace",
+        "Password": "Grace#123",
+        "Customer_Id": "CUST000012",
+        "Age": 56,
+        "Gender": "M",
+        "Location": "Houston",
+        "Income per Year": 237893,
+        "Education": "MBA",
+        "Occupation": "Software Engineer",
+        "Credit Score": 800,
+        "Monthly Expenses": 2998.09,
+        "Transactions": [
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 430.98,
+                "Purchase_Date": "03/17/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 490,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 460.65,
+                "Purchase_Date": "03/17/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 786,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 423.14,
+                "Purchase_Date": "03/17/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 717,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1620.55,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 571,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2190.28,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 475,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1344.05,
+                "Purchase_Date": "11/24/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 834,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Victor",
+        "Password": "Victor#123",
+        "Customer_Id": "CUST000013",
+        "Age": 42,
+        "Gender": "M",
+        "Location": "Dallas",
+        "Income per Year": 206819,
+        "Education": "PhD",
+        "Occupation": "Software Developer",
+        "Credit Score": 666,
+        "Monthly Expenses": 3040.17,
+        "Transactions": [
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 26.58,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 773,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 38.8,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 352,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 168.58,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 163,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 821.41,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 622,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 666.82,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 876,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 970.9,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 835,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 162.44,
+                "Purchase_Date": "05/26/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 378,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1702.08,
+                "Purchase_Date": "09/03/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 190,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3526.38,
+                "Purchase_Date": "09/03/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 885,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1749.73,
+                "Purchase_Date": "09/15/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 615,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1872.55,
+                "Purchase_Date": "09/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 192,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2670.61,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 336,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1651.91,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 601,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4554.74,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 847,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 3895.17,
+                "Purchase_Date": "11/16/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 475,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 5451.27,
+                "Purchase_Date": "07/13/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 225,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 7649.67,
+                "Purchase_Date": "07/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 109,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 5283.58,
+                "Purchase_Date": "07/13/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 874,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 47.03,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 825,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 10.71,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 571,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 30.88,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 777,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 40.01,
+                "Purchase_Date": "12/17/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 895,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 2584.95,
+                "Purchase_Date": "01/03/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 406,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 2979.87,
+                "Purchase_Date": "01/03/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 451,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 21562.17,
+                "Purchase_Date": "07/09/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Redfin",
+                "Transaction_id": 145,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 193819.0,
+                "Purchase_Date": "07/09/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Zillow",
+                "Transaction_id": 506,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 423136.74,
+                "Purchase_Date": "07/09/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Sotheby's Realty",
+                "Transaction_id": 593,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 442.99,
+                "Purchase_Date": "08/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Southwest Airlines",
+                "Transaction_id": 363,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 301.13,
+                "Purchase_Date": "08/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 900,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 192.31,
+                "Purchase_Date": "08/22/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 780,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Isabel",
+        "Password": "Isabel#123",
+        "Customer_Id": "CUST000014",
+        "Age": 76,
+        "Gender": "F",
+        "Location": "San Diego",
+        "Income per Year": 156824,
+        "Education": "Associate Degree",
+        "Occupation": "Software Engineer",
+        "Credit Score": 520,
+        "Monthly Expenses": 4732.4,
+        "Transactions": [
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 29.29,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 625,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 95.33,
+                "Purchase_Date": "02/16/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Starbucks",
+                "Transaction_id": 387,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 23.98,
+                "Purchase_Date": "03/09/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 863,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 54.1,
+                "Purchase_Date": "03/09/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 231,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 96.3,
+                "Purchase_Date": "03/09/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 800,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 77.39,
+                "Purchase_Date": "03/09/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 163,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Jack",
+        "Password": "Jack#123",
+        "Customer_Id": "CUST000015",
+        "Age": 47,
+        "Gender": "M",
+        "Location": "Denver",
+        "Income per Year": 142511,
+        "Education": "MBA",
+        "Occupation": "Professor",
+        "Credit Score": 542,
+        "Monthly Expenses": 1951.27,
+        "Transactions": [
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 312.01,
+                "Purchase_Date": "02/01/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 933,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1128.2,
+                "Purchase_Date": "02/01/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 535,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Ryan",
+        "Password": "Ryan#123",
+        "Customer_Id": "CUST000016",
+        "Age": 34,
+        "Gender": "F",
+        "Location": "Boston",
+        "Income per Year": 129424,
+        "Education": "PhD",
+        "Occupation": "Artist",
+        "Credit Score": 371,
+        "Monthly Expenses": 9829.14,
+        "Transactions": [
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 15663.0,
+                "Purchase_Date": "01/02/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Louis Vuitton",
+                "Transaction_id": 466,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 5525.74,
+                "Purchase_Date": "01/02/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Louis Vuitton",
+                "Transaction_id": 887,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 10079.84,
+                "Purchase_Date": "01/02/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Rolex",
+                "Transaction_id": 698,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 18659.34,
+                "Purchase_Date": "01/02/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Gucci",
+                "Transaction_id": 561,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 3148.36,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 350,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 4989.3,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 576,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 404.24,
+                "Purchase_Date": "11/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 566,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1251.23,
+                "Purchase_Date": "11/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 986,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 37.66,
+                "Purchase_Date": "06/17/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 212,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 49.45,
+                "Purchase_Date": "06/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Amazon Prime",
+                "Transaction_id": 904,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 34.25,
+                "Purchase_Date": "06/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 664,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2554.99,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 532,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 603.38,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 875,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1966.71,
+                "Purchase_Date": "05/09/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 203,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 10.63,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 427,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 46.09,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 133,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 10.75,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 637,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 22.44,
+                "Purchase_Date": "06/04/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 208,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Liam",
+        "Password": "Liam#123",
+        "Customer_Id": "CUST000017",
+        "Age": 71,
+        "Gender": "M",
+        "Location": "Houston",
+        "Income per Year": 227806,
+        "Education": "Master's",
+        "Occupation": "Photographer",
+        "Credit Score": 331,
+        "Monthly Expenses": 5994.55,
+        "Transactions": [
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1070.98,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 276,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3788.02,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 963,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 585.46,
+                "Purchase_Date": "09/20/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 484,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1395.07,
+                "Purchase_Date": "08/18/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 481,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4937.36,
+                "Purchase_Date": "08/18/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 857,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 2252.53,
+                "Purchase_Date": "07/01/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 846,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 628.08,
+                "Purchase_Date": "07/01/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 952,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 930.23,
+                "Purchase_Date": "07/01/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 110,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1119.57,
+                "Purchase_Date": "02/06/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 867,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1875.85,
+                "Purchase_Date": "02/06/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 402,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Yvonne",
+        "Password": "Yvonne#123",
+        "Customer_Id": "CUST000018",
+        "Age": 28,
+        "Gender": "M",
+        "Location": "Washington D.C.",
+        "Income per Year": 31685,
+        "Education": "Diploma",
+        "Occupation": "Marketing Manager",
+        "Credit Score": 616,
+        "Monthly Expenses": 5742.49,
+        "Transactions": [
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 11188.23,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Rolex",
+                "Transaction_id": 996,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 7497.98,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Gucci",
+                "Transaction_id": 376,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 4792.54,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Louis Vuitton",
+                "Transaction_id": 234,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 16505.09,
+                "Purchase_Date": "04/23/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Louis Vuitton",
+                "Transaction_id": 695,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 478.99,
+                "Purchase_Date": "11/06/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 218,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 513.41,
+                "Purchase_Date": "11/06/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 616,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 4377.36,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 274,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 4641.04,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 886,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3671.56,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coursera",
+                "Transaction_id": 402,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Sophia",
+        "Password": "Sophia#123",
+        "Customer_Id": "CUST000019",
+        "Age": 44,
+        "Gender": "M",
+        "Location": "Chicago",
+        "Income per Year": 58198,
+        "Education": "MBA",
+        "Occupation": "Software Engineer",
+        "Credit Score": 615,
+        "Monthly Expenses": 9435.74,
+        "Transactions": [
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 45.63,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 684,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 6.49,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 420,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 31.77,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 581,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 26.57,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 686,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 17.71,
+                "Purchase_Date": "03/20/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 623,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 8.28,
+                "Purchase_Date": "03/20/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Taco Bell",
+                "Transaction_id": 535,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 6.94,
+                "Purchase_Date": "03/20/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Taco Bell",
+                "Transaction_id": 301,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 7323.22,
+                "Purchase_Date": "06/03/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Gucci",
+                "Transaction_id": 999,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Shopping",
+                "Category": "Luxury",
+                "Amount": 14699.93,
+                "Purchase_Date": "06/03/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Rolex",
+                "Transaction_id": 638,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 482.71,
+                "Purchase_Date": "08/01/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 572,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 338.38,
+                "Purchase_Date": "08/01/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 219,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 239.16,
+                "Purchase_Date": "08/01/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 498,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 416.86,
+                "Purchase_Date": "08/01/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 998,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 482.96,
+                "Purchase_Date": "07/30/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 622,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 260.21,
+                "Purchase_Date": "07/30/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 380,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 488.39,
+                "Purchase_Date": "07/30/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 577,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 393.93,
+                "Purchase_Date": "07/30/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 817,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 892.69,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 917,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 894.04,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 708,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 820.15,
+                "Purchase_Date": "05/04/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "The Ritz",
+                "Transaction_id": 626,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 3301.26,
+                "Purchase_Date": "03/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Merrill Lynch",
+                "Transaction_id": 470,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2018.62,
+                "Purchase_Date": "03/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 314,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2609.9,
+                "Purchase_Date": "03/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 444,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 4255.45,
+                "Purchase_Date": "03/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Morgan Stanley",
+                "Transaction_id": 392,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9636.17,
+                "Purchase_Date": "06/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 963,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 4921.12,
+                "Purchase_Date": "06/21/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 512,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 1536.52,
+                "Purchase_Date": "06/21/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 458,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 3557.91,
+                "Purchase_Date": "01/28/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 529,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 624.51,
+                "Purchase_Date": "01/28/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 396,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 772.86,
+                "Purchase_Date": "01/28/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 393,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Noah",
+        "Password": "Noah#123",
+        "Customer_Id": "CUST000020",
+        "Age": 75,
+        "Gender": "M",
+        "Location": "Seattle",
+        "Income per Year": 240313,
+        "Education": "Associate Degree",
+        "Occupation": "Insurance Agent",
+        "Credit Score": 728,
+        "Monthly Expenses": 8991.57,
+        "Transactions": [
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2832.85,
+                "Purchase_Date": "11/06/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Merrill Lynch",
+                "Transaction_id": 328,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 2637.09,
+                "Purchase_Date": "11/06/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 845,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 766.97,
+                "Purchase_Date": "11/06/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 128,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 31.99,
+                "Purchase_Date": "05/27/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 642,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 56.9,
+                "Purchase_Date": "05/27/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "AMC Theaters",
+                "Transaction_id": 455,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 46.94,
+                "Purchase_Date": "05/27/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 576,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Movie Ticket",
+                "Category": "Movies",
+                "Amount": 69.36,
+                "Purchase_Date": "05/27/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Regal Cinemas",
+                "Transaction_id": 691,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 852.67,
+                "Purchase_Date": "05/15/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 657,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 1485.15,
+                "Purchase_Date": "05/15/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Charles Schwab",
+                "Transaction_id": 967,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Financial Advisory Fee",
+                "Category": "Wealth Management",
+                "Amount": 3036.7,
+                "Purchase_Date": "05/15/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Merrill Lynch",
+                "Transaction_id": 800,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1014.94,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 748,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2814.76,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Apple",
+                "Transaction_id": 459,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1076.15,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 177,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 9.07,
+                "Purchase_Date": "07/15/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "KFC",
+                "Transaction_id": 829,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 20.36,
+                "Purchase_Date": "07/15/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 442,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 8.42,
+                "Purchase_Date": "07/15/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 700,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 26.34,
+                "Purchase_Date": "07/15/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 883,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 96.82,
+                "Purchase_Date": "07/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 644,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 338.38,
+                "Purchase_Date": "07/05/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 846,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 484.53,
+                "Purchase_Date": "07/05/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 348,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9368.83,
+                "Purchase_Date": "03/02/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 804,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 2206.55,
+                "Purchase_Date": "03/02/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 228,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 6194.7,
+                "Purchase_Date": "03/02/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 835,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 2302.84,
+                "Purchase_Date": "03/02/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 315,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 36.53,
+                "Purchase_Date": "11/27/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Disney+",
+                "Transaction_id": 789,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 37.23,
+                "Purchase_Date": "11/27/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 488,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 2915.74,
+                "Purchase_Date": "09/22/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 897,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Gadget Purchase",
+                "Category": "Tech",
+                "Amount": 1445.09,
+                "Purchase_Date": "09/22/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 869,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 173.07,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 511,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 188.08,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "JPMorgan",
+                "Transaction_id": 136,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 149.63,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Goldman Sachs",
+                "Transaction_id": 357,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Banking Service Fee",
+                "Category": "Premium Banking",
+                "Amount": 304.41,
+                "Purchase_Date": "11/22/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Bank of America",
+                "Transaction_id": 846,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Alice",
+        "Password": "Alice#123",
+        "Customer_Id": "CUST000021",
+        "Age": 70,
+        "Gender": "F",
+        "Location": "San Diego",
+        "Income per Year": 241165,
+        "Education": "MBA",
+        "Occupation": "Architect",
+        "Credit Score": 824,
+        "Monthly Expenses": 7329.22,
+        "Transactions": [
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 548.46,
+                "Purchase_Date": "10/29/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Target",
+                "Transaction_id": 702,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 239.99,
+                "Purchase_Date": "10/29/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 410,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 22.62,
+                "Purchase_Date": "01/08/2025",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 927,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 32.56,
+                "Purchase_Date": "01/08/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 618,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 29.42,
+                "Purchase_Date": "01/08/2025",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 443,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Purchase",
+                "Category": "Casual Dining",
+                "Amount": 30.39,
+                "Purchase_Date": "01/08/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Subway",
+                "Transaction_id": 140,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 415.16,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 971,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 352.39,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 962,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 264.81,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 447,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 97.56,
+                "Purchase_Date": "10/07/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Live Nation",
+                "Transaction_id": 897,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Thomas",
+        "Password": "Thomas#123",
+        "Customer_Id": "CUST000022",
+        "Age": 46,
+        "Gender": "F",
+        "Location": "New York",
+        "Income per Year": 82902,
+        "Education": "MBA",
+        "Occupation": "Wealth Manager",
+        "Credit Score": 333,
+        "Monthly Expenses": 6175.77,
+        "Transactions": [
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 528.54,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 125,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 709.87,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Nobu",
+                "Transaction_id": 525,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Luxury Restaurant Bill",
+                "Category": "Fine Dining",
+                "Amount": 658.85,
+                "Purchase_Date": "10/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Michelin Star Restaurant",
+                "Transaction_id": 692,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 104.38,
+                "Purchase_Date": "12/21/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 164,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 146.45,
+                "Purchase_Date": "12/21/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Google Books",
+                "Transaction_id": 278,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 141.88,
+                "Purchase_Date": "12/21/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Barnes & Noble",
+                "Transaction_id": 346,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 487.3,
+                "Purchase_Date": "08/07/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 949,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 380.85,
+                "Purchase_Date": "08/07/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "United Airlines",
+                "Transaction_id": 830,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Domestic Flight Booking",
+                "Category": "Domestic Travelers",
+                "Amount": 161.85,
+                "Purchase_Date": "08/07/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Alaska Airlines",
+                "Transaction_id": 684,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 681.27,
+                "Purchase_Date": "04/22/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 587,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 687.41,
+                "Purchase_Date": "04/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 769,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 527.83,
+                "Purchase_Date": "04/22/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Walmart",
+                "Transaction_id": 375,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Retail Purchase",
+                "Category": "Retail",
+                "Amount": 469.36,
+                "Purchase_Date": "04/22/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Best Buy",
+                "Transaction_id": 212,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 405.84,
+                "Purchase_Date": "01/11/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Ticketmaster",
+                "Transaction_id": 663,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Concert Ticket",
+                "Category": "Concerts",
+                "Amount": 443.71,
+                "Purchase_Date": "01/11/2025",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "StubHub",
+                "Transaction_id": 545,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 24.61,
+                "Purchase_Date": "05/20/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 770,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Streaming Subscription",
+                "Category": "Streaming",
+                "Amount": 34.08,
+                "Purchase_Date": "05/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Netflix",
+                "Transaction_id": 437,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4971.66,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 990,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2889.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 770,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4421.7,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 170,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 12.95,
+                "Purchase_Date": "08/06/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 871,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Fast Food Order",
+                "Category": "Fast Food",
+                "Amount": 5.84,
+                "Purchase_Date": "08/06/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Domino's",
+                "Transaction_id": 881,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1929.16,
+                "Purchase_Date": "03/11/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 170,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3667.0,
+                "Purchase_Date": "03/11/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 896,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2793.08,
+                "Purchase_Date": "03/11/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 724,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3045.45,
+                "Purchase_Date": "03/11/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 127,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Charlie",
+        "Password": "Charlie#123",
+        "Customer_Id": "CUST000023",
+        "Age": 78,
+        "Gender": "F",
+        "Location": "Miami",
+        "Income per Year": 112024,
+        "Education": "Under-Graduate",
+        "Occupation": "Doctor",
+        "Credit Score": 773,
+        "Monthly Expenses": 9358.11,
+        "Transactions": [
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 313735.96,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Redfin",
+                "Transaction_id": 987,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 10664.51,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Zillow",
+                "Transaction_id": 258,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 169582.52,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Sotheby's Realty",
+                "Transaction_id": 292,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Real Estate Investment",
+                "Category": "Real Estate",
+                "Amount": 332915.84,
+                "Purchase_Date": "02/07/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Sotheby's Realty",
+                "Transaction_id": 757,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1235.22,
+                "Purchase_Date": "07/17/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 800,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1895.25,
+                "Purchase_Date": "07/17/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 761,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3948.5,
+                "Purchase_Date": "06/20/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 111,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 1326.56,
+                "Purchase_Date": "06/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Harvard University",
+                "Transaction_id": 414,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Tuition Payment",
+                "Category": "Education",
+                "Amount": 3385.01,
+                "Purchase_Date": "06/20/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Udemy",
+                "Transaction_id": 658,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 895.85,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 336,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 1594.08,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 705,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 4025.46,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Expedia",
+                "Transaction_id": 933,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 3576.94,
+                "Purchase_Date": "01/25/2025",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Airbnb",
+                "Transaction_id": 611,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Katherine",
+        "Password": "Katherine#123",
+        "Customer_Id": "CUST000024",
+        "Age": 25,
+        "Gender": "M",
+        "Location": "Atlanta",
+        "Income per Year": 52583,
+        "Education": "Graduate",
+        "Occupation": "Software Engineer",
+        "Credit Score": 778,
+        "Monthly Expenses": 8802.66,
+        "Transactions": [
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 660.83,
+                "Purchase_Date": "06/30/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 945,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 1259.25,
+                "Purchase_Date": "06/30/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "American Airlines",
+                "Transaction_id": 518,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 757.95,
+                "Purchase_Date": "06/30/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Emirates",
+                "Transaction_id": 163,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Frequent Flyer Miles Purchase",
+                "Category": "Frequent Travelers",
+                "Amount": 986.93,
+                "Purchase_Date": "06/30/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 603,
+                "Currency": "Dollar"
+            }
+        ]
+    },
+    {
+        "Name": "Uma",
+        "Password": "Uma#123",
+        "Customer_Id": "CUST000025",
+        "Age": 55,
+        "Gender": "M",
+        "Location": "Atlanta",
+        "Income per Year": 39345,
+        "Education": "Diploma",
+        "Occupation": "Marketing Manager",
+        "Credit Score": 429,
+        "Monthly Expenses": 8458.09,
+        "Transactions": [
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 70.88,
+                "Purchase_Date": "04/11/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Barnes & Noble",
+                "Transaction_id": 107,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 119.15,
+                "Purchase_Date": "04/11/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Amazon",
+                "Transaction_id": 987,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Book Purchase",
+                "Category": "Books",
+                "Amount": 187.1,
+                "Purchase_Date": "04/11/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "Barnes & Noble",
+                "Transaction_id": 143,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 2014.1,
+                "Purchase_Date": "09/23/2024",
+                "Payment_Mode": "Wire Transfer",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 457,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 7051.16,
+                "Purchase_Date": "09/23/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "NYSE",
+                "Transaction_id": 930,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 3243.84,
+                "Purchase_Date": "09/23/2024",
+                "Payment_Mode": "Crypto",
+                "Merchant_Vendor": "Vanguard",
+                "Transaction_id": 834,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Stock Investment",
+                "Category": "Investment",
+                "Amount": 9243.86,
+                "Purchase_Date": "09/23/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Coinbase",
+                "Transaction_id": 708,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 274.83,
+                "Purchase_Date": "06/25/2024",
+                "Payment_Mode": "Credit Card",
+                "Merchant_Vendor": "McDonald's",
+                "Transaction_id": 302,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 113.91,
+                "Purchase_Date": "06/25/2024",
+                "Payment_Mode": "PayPal",
+                "Merchant_Vendor": "Starbucks",
+                "Transaction_id": 621,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Restaurant Bill",
+                "Category": "Dining",
+                "Amount": 236.06,
+                "Purchase_Date": "06/25/2024",
+                "Payment_Mode": "Cash",
+                "Merchant_Vendor": "Five Guys",
+                "Transaction_id": 464,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 2889.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 239,
+                "Currency": "Dollar"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 288988888888.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 71351,
+                "Currency": "USD"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 288988888888.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 24752,
+                "Currency": "USD"
+            },
+            {
+                "Transaction_Type": "Flight Booking",
+                "Category": "Travel",
+                "Amount": 288988888888.9,
+                "Purchase_Date": "10/05/2024",
+                "Payment_Mode": "Net Banking",
+                "Merchant_Vendor": "Delta Airlines",
+                "Transaction_id": 24752,
+                "Currency": "USD"
+            }
+        ]
+    }
+]

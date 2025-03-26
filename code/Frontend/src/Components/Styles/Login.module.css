@@ -1,0 +1,169 @@
+/* Centered layout */
+.loginContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #f2f2f2;
+}
+
+/* Image Container */
+.imageContainer {
+  flex: 1;
+  text-align: center;
+  margin: 20px;
+}
+
+.imageContainer img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Form Container */
+.formContainer {
+  flex: 1;
+  padding: 20px;
+}
+
+/* Form Box */
+.formBox {
+  background-color: whitesmoke;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+/* Welcome message */
+.welcome {
+  margin: 20px 0;
+  font-size: 24px;
+  color: #008080;
+  text-align: center;
+}
+
+/* Form */
+.loginForm {
+  text-align: center;
+  width: 100%;
+  max-width: 350px;
+  margin: auto;
+}
+
+/* Input field */
+.inputLg {
+  font-size: 16px;
+  height: 45px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: white; /* Fixed background */
+  color: #333; /* Dark text for visibility */
+  border: 1px solid #008080;
+  width: 100%;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.inputLg::placeholder {
+  color: #666;
+}
+
+/* Submit button */
+.btnPrimary {
+  background-color: #008080;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 18px;
+  padding: 12px;
+  width: 100%;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btnPrimary:hover {
+  background-color: #005f5f;
+}
+
+/* Error message */
+.errorText {
+  color: red;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+/* Forgot links */
+.forgotLinks {
+  color: #008080;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.forgotLinks a {
+  color: #008080;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.forgotLinks a:hover {
+  color: #7d3465;
+}
+
+.divider {
+  margin: 0 10px;
+}
+
+/* Register link */
+.registerLink {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.registerLink a {
+  color: #008080;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.registerLink a:hover {
+  color: #7d3465;
+}
+
+/* Responsive styles */
+@media screen and (max-width: 1024px) {
+  .loginContainer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .imageContainer {
+    order: 2;
+    margin-top: 20px;
+  }
+
+  .imageContainer img {
+    max-width: 80%;
+  }
+
+  .formContainer {
+    order: 1;
+  }
+
+  .inputLg {
+    font-size: 14px;
+    height: 40px;
+    padding: 8px 16px;
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .btnPrimary {
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+  }
+}

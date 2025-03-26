@@ -1,0 +1,32 @@
+{
+    "loyalty_rewards": {
+        "Retail": [
+            {
+                "positive_feedback": "NovaBank’s credit card rewards are amazing! Earned so many points.",
+                "reward_offer": "Bonus Rewards: Get 10% extra reward points or cashback for the next 3 months."
+            },
+            {
+                "positive_feedback": "Love the NovaBank mobile app. So easy to use!",
+                "reward_offer": "Exclusive App Perks: Early access to new features & premium app support."
+            },
+            {
+                "positive_feedback": "Great customer service at NovaBank. Always helpful!",
+                "reward_offer": "Referral Bonus: Earn rewards for referring friends & family."
+            }
+        ],
+        "Commercial": [
+            {
+                "positive_feedback": "NovaBank’s business account services are really efficient!",
+                "reward_offer": "Corporate Account Perks: Waived transaction fees for 3 months."
+            },
+            {
+                "positive_feedback": "Happy with NovaBank’s trade finance solutions. Helped our business a lot!",
+                "reward_offer": "Business Growth Incentives: Access to premium business banking features."
+            },
+            {
+                "positive_feedback": "NovaBank helped streamline our payroll processing. Highly recommend!",
+                "reward_offer": "Corporate Loyalty Program: Discounts on payroll services or business loans."
+            }
+        ]
+    }
+}
