@@ -2,7 +2,7 @@ Project Resources
 
 📌 Video Overview
 
-Check out the project overview on YouTube: HyperFin AI - Nova Bank
+Check out the project overview on YouTube: [HyperFin AI - Nova Bank](https://www.youtube.com/watch?v=tFd3tDmv0TI)
 
 📂 Additional Documents
 
